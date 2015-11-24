@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "p\u00e1gina a p\u00e1gina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "consulta simples"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Apagados \"%1$s\" dados de campo em %2$d linhas de %3$d p\u00e1gina(s)."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Erro a apagar \"%1$s\" dados de campo, %2$d linha(s), %3$d p\u00e1gina(s)."
+        }
+    }
+}

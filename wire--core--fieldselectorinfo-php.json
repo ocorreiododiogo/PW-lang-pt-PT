@@ -1,0 +1,45 @@
+{
+    "file": "wire\/core\/FieldSelectorInfo.php",
+    "textdomain": "wire--core--fieldselectorinfo-php",
+    "translations": {
+        "0ccb67e7eaae09d9e4078d161eeca100": {
+            "text": "Iguais"
+        },
+        "fb83c9b66919b4a757a43a807b6af2cf": {
+            "text": "N\u00e3o Iguais"
+        },
+        "7288454fa442d48bc741c5cbadc2621b": {
+            "text": "Maior Que"
+        },
+        "45ed1ce04bcf6003d4702422e1221c85": {
+            "text": "Menor Que"
+        },
+        "948f7ffb9d1e26622df83711e20e2fb2": {
+            "text": "Maior ou Igual a"
+        },
+        "189ce8ec24447eef9869d18043c9e303": {
+            "text": "Menor ou Igual a"
+        },
+        "7842f2dabc6c53dca4319818c88ebeb9": {
+            "text": "Contem Texto"
+        },
+        "8354008c16032b35e36589957a3bd65f": {
+            "text": "Contem Frase"
+        },
+        "7df149c48f0508977c06be79341a40ed": {
+            "text": "Contem Palavra"
+        },
+        "062e49c0f9af31da4f7314124191d9ef": {
+            "text": "Come\u00e7a Com"
+        },
+        "3ad33d3cec01f7125e3cd0575cada7ef": {
+            "text": "Acaba Com"
+        },
+        "78c143802119a85c9774c0459240085d": {
+            "text": "Est\u00e1 Vazio"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "N\u00e3o Est\u00e1 Vazio"
+        }
+    }
+}

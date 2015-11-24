@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTitle\/InputfieldPageTitle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetitle--inputfieldpagetitle-module",
+    "translations": {
+        "2864512e4161ae21b145798e32938abf": {
+            "text": "="
+        },
+        "dc643f0a55e724a742f7bcc43fa5b84e": {
+            "text": "Trata da introdu\u00e7\u00e3o dos t\u00edtulos das p\u00e1ginas e da cria\u00e7\u00e3o autom\u00e1tica dos nomes das p\u00e1ginas (quando deixado em branco)"
+        }
+    }
+}

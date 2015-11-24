@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Por favor confirmar que quer eliminar op\u00e7\u00f5es"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "ELIMINAR:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Valor Simples"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Valores M\u00faltiplos"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "O qu\u00ea deveria ser utilizado para entrada?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Dependendo do tipo de entrada que escolhe, o utilizador poder\u00e1 seleccionar ou uma \u00fanica op\u00e7\u00e3o ou m\u00faltiplas op\u00e7\u00f5es. Alguns tipos de entrada (tal como AsmSelect) suportam tamb\u00e9m selec\u00e7\u00f5es ordenadas pelo utilizador. Alguns tipos de entrada fornecem tamb\u00e9m mais defini\u00e7\u00f5es na aba *Entrada* (vis\u00edvel depois de guardar)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Quais s\u00e3o as op\u00e7\u00f5es seleccion\u00e1veis?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Introduza uma op\u00e7\u00e3o seleccion\u00e1vel por linha. Depois de guardar, um n\u00famero de ID ser\u00e1 atribu\u00eddo a cada uma das op\u00e7\u00f5es, as quais ir\u00e1 ver por exemplo como '123=t\u00edtulo'. Por favor ver as nossas [instru\u00e7\u00f5es de uso deste campo](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Nota para Multi-l\u00ednguas: define op\u00e7\u00f5es na l\u00edngua por defeito e guarde as antes de traduzir para outra l\u00edngua."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Quais as op\u00e7\u00f5es que pretende pre-seleccionar? (se houver)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Este canpo serve tamb\u00e9m como previsualiza\u00e7\u00e3o do seu tipo de entrada seleccionado (%s) e das op\u00e7\u00f5es."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Por favor anotar: as suas selec\u00e7\u00f5es aqui n\u00e3o se tornam activas a menos que um valor seja *sempre* exigida para este campo. ver a op\u00e7\u00e3o \"obrigat\u00f3rio\" na aba Entrada das defini\u00e7\u00f5es do campo."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Esta funcionalidade est\u00e1 activa visto que um valor est\u00e1 sempre exigida."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Eliminar esta op\u00e7\u00e3o"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Eliminar estas op\u00e7\u00f5es"
+        }
+    }
+}

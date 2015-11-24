@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Marcar esta caixa ir\u00e1 permitir que os dados sejam apresentados na sua lista de sess\u00f5es na administra\u00e7\u00e3o."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Monitorizar o endere\u00e7o IP nos dados de sess\u00e3o?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Monitorizar o agente do utilizador nos dados de sess\u00e3o?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "O agente de utilizador contem tipicamente informa\u00e7\u00e3o sobre o navegador utilizado."
+        }
+    }
+}

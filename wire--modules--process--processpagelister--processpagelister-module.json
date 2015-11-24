@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "="
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Em Branco"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Criado"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Modificado"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publicado"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Modificado Por"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Criado Por"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Estatuto"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Parente"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "N\u00famero de Sub-p\u00e1ginas"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Ocultado"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "N\u00e3o Publicado"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Bloqueado"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Lixo"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Marcadores desconhecidos ou desativados"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtros"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Adicionar Filtro"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Colunas por defeito"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Selecione e ordene as colunas que ser\u00e3o mostradas na tabela da lista de p\u00e1ginas."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "O utilizador pode opcionalmente modificar quais as colunas para mostrar, por isso s\u00f3 serve como apresenta\u00e7\u00e3o por defeito."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "As modifica\u00e7\u00f5es que faz aqui deveriam ser imediatamente refletidas nos resultados abaixo."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Quais as colunas a mostrar nos resultados"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Quais s\u00e3o p\u00e1ginas para mostrar"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "O modo espec\u00edfico 'include=' n\u00e3o est\u00e1 permitido aqui."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Nem todos os modelos especificados s\u00e3o edit\u00e1veis. Apenas 'include=hidden' est\u00e1 permitido."
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Nenhum modelo especificado por isso 'include=hidden' \u00e9 o max\u00edmo permitido em modo de inclus\u00e3o"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d at\u00e9 %2$d de %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Nenhum resultado."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "selecionado"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Todas as defini\u00e7\u00f5es foram repostas a zero."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar Novo"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Refrescar os resultados"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Redefinir os filtros e as colunas para os valores por defeito"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcadores"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Colunas"
+        }
+    }
+}

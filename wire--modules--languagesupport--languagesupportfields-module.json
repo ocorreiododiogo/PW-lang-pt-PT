@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Suporte da L\u00edngua \/ Comportamento dos Valores em branco"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "O qu\u00ea deveria acontecer quando o valor do campo est\u00e1 em branco?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Se aplica s\u00f3 aos valores das l\u00ednguas outras que por defeito, no front-end do seu s\u00edtio"
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Herda o valor da linguagem por defeito"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Fica em branco"
+        }
+    }
+}

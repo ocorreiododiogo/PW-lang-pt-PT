@@ -1,1 +1,30 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldEmail.module","textdomain":"wire--modules--inputfield--inputfieldemail-module","translations":{"5a10b50e78025c723773b6fedf97e382":{"text":"Insira um email v\u00e1lido. Exemplo: pessoa@empresa.pt"},"16f09bacbf690906417db0a60cda359c":{"text":"Por favor, insira um email v\u00e1lido"},"082e55a73f10496681c84231dc1c88f7":{"text":"Email"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Por favor, insira um email v\u00e1lido"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "Email"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirmar"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "Os emails introduzidos n\u00e3o condizem, por favor introduza-os de novo"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Confirma o endere\u00e7o de email"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Quando verificados, duas entradas para email ir\u00e3o aparecer e o utilizador dever\u00e1 introduzir o seu email duas vezes para o confirmar. Permite reduzir as possibilidades de erros a escrever."
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Endere\u00e7o de email num formato v\u00e1lido."
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "Emails"
+        }
+    }
+}

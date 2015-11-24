@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Colunas de Caixas de Marca\u00e7\u00e3o"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Se pretende afixar as caixas de marca\u00e7\u00e3o em colunas (em vez de empilhadas), introduza o n\u00famero de colunas que quer utilizar (at\u00e9 10). Para afixar as caixas de marca\u00e7\u00e3o lado a lado (em linha), introduza 1."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Caixas de Marca\u00e7\u00e3o"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Ativa\u00e7\u00e3o\/desativa\u00e7\u00e3o de v\u00e1rias caixas de marca\u00e7\u00e3o"
+        }
+    }
+}

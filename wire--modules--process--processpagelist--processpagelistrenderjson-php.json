@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 P\u00e1gina N\u00e3o foi Encontrada"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administra\u00e7\u00e3o"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Lixo aberto: arraste as p\u00e1ginas em baixo para elimina-las"
+        }
+    }
+}

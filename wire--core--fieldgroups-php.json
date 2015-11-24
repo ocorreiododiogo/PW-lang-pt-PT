@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Fieldgroups.php",
+    "textdomain": "wire--core--fieldgroups-php",
+    "translations": {
+        "abce719a5ff28157e0e92337d8dcf8bd": {
+            "text": "Imposs\u00edvel de encontrar o campo: %s"
+        },
+        "f1d3c736f589a82f1519c711fd4123c0": {
+            "text": "Imposs\u00edvel de encontrar o campo para definir o contexto do campo: %s"
+        },
+        "fdd1e49a5de74a22586acf7420fcbd8d": {
+            "text": "Alerta, todos os dados nestes campos ser\u00e3o permanentemente eliminados (por favor confirmar): %s"
+        }
+    }
+}

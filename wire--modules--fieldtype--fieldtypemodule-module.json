@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Tipos de M\u00f3dulos"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Seleccione todos os tipos de m\u00f3dulo que podem ser seleccionados neste campo."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Fazer deste campo uma inst\u00e2ncia do m\u00f3dulo seleccionado?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Se marcada, o valor do campo ser\u00e1 uma verdadeira inst\u00e2ncia do m\u00f3dulo seleccionado. Se n\u00e3o for marcada, o valor do campo ser\u00e1 uma cadeia contendo o nome da classe do m\u00f3dulo."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Etiqueta das Op\u00e7\u00f5es"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Nome da Classe do M\u00f3dulo"
+        },
+        "335fdfd0673e7e457d51384f686b00dc": {
+            "text": "T\u00edtulo do M\u00f3dulo"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Tipo de Entrada"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleccionar"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "="
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/WireTempDir.php",
+    "textdomain": "wire--core--wiretempdir-php",
+    "translations": {
+        "fcecae7cd3a639caff1a6a7c895c954d": {
+            "text": "N\u00e3o foi poss\u00edvel criar a pasta tempor\u00e1ria"
+        },
+        "5d73c732a700aaa27e07ffd0f638ecc8": {
+            "text": "N\u00e3o foi poss\u00edvel remover a pasta tempor\u00e1ria"
+        }
+    }
+}

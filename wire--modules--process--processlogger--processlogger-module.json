@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Criar ou adicionar \u00e3o ficheiro de registo a partir da API:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Registo eliminado: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Foi cortado o ficheiro de registo \"%s\" (agora cont\u00e9m %d entradas)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Guardada uma nova entrada de registo em \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "O texto da entrada de registo estava em branco"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "="
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "Procura de Texto"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "A partir da Data"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Da Data Para"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "A\u00e7\u00f5es"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "Selecione uma a\u00e7\u00e3o abaixo. Lhe ser\u00e1 pedido para clicar um bot\u00e3o antes da a\u00e7\u00e3o ser executada."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Descarregar"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Crescer (Adicionar uma Entrada)"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "Picar (Cortar)"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Queimar (Eliminar)"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "Picar at\u00e9 # Dias"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Reduz o tamanho do ficheiro de registo para conter s\u00f3 as entradas dos \u00faltimos [n] dias."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Nova Entrada de Registo"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "Picar este ficheiro de registo agora"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Queimar este registo agora (elimina permanentemente)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "Adicionar esta entrada de registo"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Descarregar este ficheiro de registo agora"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "verdadeiro"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "Nenhuma entrada de registo a coincidir"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Registos"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Ver e gerir os registos de sistema."
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Entradas"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Tamanho"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Data\/Hora"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Utilizador"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Texto"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d registo"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d registos"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Uma nova entrada de registo na p\u00e1gina 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "V\u00e1rias novas entradas de registo na p\u00e1gina 1"
+        }
+    }
+}

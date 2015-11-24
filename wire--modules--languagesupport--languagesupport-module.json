@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupport.module",
+    "textdomain": "wire--modules--languagesupport--languagesupport-module",
+    "translations": {
+        "49eb6a44db57cba8d66b3404fa9f0ad4": {
+            "text": "="
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "="
+        },
+        "3f94f86633491ad8e5d18f5e481330c2": {
+            "text": "Mudan\u00e7as para este campo n\u00e3o ser\u00e3o guardadas porque n\u00e3o tem a permiss\u00e3o para a l\u00edngua: %s"
+        },
+        "4994a8ffeba4ac3140beb89e8d41f174": {
+            "text": "L\u00edngua"
+        },
+        "185d23ff9526ad93077a1c9ad5ed26a2": {
+            "text": "Correio Electr\u00f3nico"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        }
+    }
+}

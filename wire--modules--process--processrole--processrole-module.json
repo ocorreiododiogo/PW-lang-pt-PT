@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permiss\u00f5es"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Para descri\u00e7\u00f5es detalhadas destas permiss\u00f5es, por favor ver [a refer\u00eancia das permiss\u00f5es] (%s)."
+        },
+        "ae9a363b2dfa9181da7ffde8e37813b5": {
+            "text": "rasurado"
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Marcar aqui a permiss\u00e3o page-edit n\u00e3o atribui um acesso de edi\u00e7\u00e3o a qualquer p\u00e1gina por si s\u00f3. Em vez disso, permite-lhe configurar o acesso de edi\u00e7\u00e3o para este perfil nas defini\u00e7\u00f5es de acesso do modelo. A permiss\u00e3o page-edit \u00e9 tamb\u00e9m o que permite aos utilizadores de ver as p\u00e1ginas na administra\u00e7\u00e3o. Esta permiss\u00e3o \u00e9 recomendada para todos os utilizadores administradores."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Indica que uma permiss\u00e3o pode opcionalmente ser adicionada ou revogada de um perfil de utilizador nas defini\u00e7\u00f5es de acesso do modelo.Marcar a permiss\u00e3o disponibiliza-a para todos os modelos edit\u00e1veis. Se pretende s\u00f3 ter um perfil de utilizador com uma destas permiss\u00f5es para as p\u00e1ginas utilizando um modelo especifico, deveria deixar-la desmarcada aqui e em vez disso, seleccionar-la na aba \"Acesso\" de um modelo."
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "As permiss\u00f5es page -add e page-create podem ser adicionadas s\u00f3 a partir das defini\u00e7\u00f5es de acesso do modelo, e s\u00e3o mostradas aqui s\u00f3 para informa\u00e7\u00e3o."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Indica um modelo que adiciona a permiss\u00e3o. Clicar para abrir uma janela com as defini\u00e7\u00f5es de acesso para este modelo. Se o nome do modelo tem %s, indica que a permiss\u00e3o est\u00e1 adicionada ao modelo, mas est\u00e1 sendo substitu\u00edda pela sua selec\u00e7\u00e3o aqui."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "O mesmo que em cima excepto que a permiss\u00e3o est\u00e1 sendo revogada pelo modelo (em vez de adicionado)."
+        },
+        "c6cc7e92b9fc348360b34c024086432c": {
+            "text": "nome|descri\u00e7\u00e3o"
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Adicionar subp\u00e1ginas \u00e0s p\u00e1ginas utilizando o modelo"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Criar p\u00e1ginas utilizando o modelo"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Esta permiss\u00e3o pode ser atribu\u00edda s\u00f3 com as defini\u00e7\u00f5es de acesso do modelo."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(exigido)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Esta permiss\u00e3o \u00e9 exigida para todos os perfis."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "aplica-se a todos os modelos edit\u00e1veis"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s adicionada pelo modelo %2$s, clique para editar"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s revogada pelo modelo %2$s, clique para editar"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Marcar a caixa adiciona a permiss\u00e3o a todos os modelos edit\u00e1veis, mas esta permiss\u00e3o j\u00e1 est\u00e1 aplicada em separado por um ou mais modelos. Para manter as coisas organizadas, sugerimos remover a permiss\u00e3o destes modelos antes de activa-la para todos. Tem a certeza que quer activa-la agora?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "actualmente n\u00e3o aplicado a qualquer modelo"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Perfis"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Gere os perfis de utilizador e quais as permiss\u00f5es atribu\u00eddas a estes"
+        }
+    }
+}

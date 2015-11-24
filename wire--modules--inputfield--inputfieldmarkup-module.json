@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldMarkup.module",
+    "textdomain": "wire--modules--inputfield--inputfieldmarkup-module",
+    "translations": {
+        "2ea61fab9633ba2efc3af0e85f8859f9": {
+            "text": "Texto de Markup"
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatadores de Texto"
+        },
+        "7b332ecb7817aa0e0d772e9220b5eae9": {
+            "text": "Seleccione o formato no qual est\u00e1 o seu texto Markup, ou os formatadores que quer lhe aplicar, na ordem que quer aplicar."
+        },
+        "0a803ca330899c7b7eb07d290ebbb5e8": {
+            "text": "Se o seu texto Markup \u00e9 puro HTML, pode n\u00e3o querer seleccionar qualquer formatador de texto."
+        },
+        "e51e08a727173e8719e480316459991e": {
+            "text": "="
+        },
+        "29513c0a079504b7b1ba10953d7270ac": {
+            "text": "Cont\u00e9m qualquer outro markup e opcionalmente campos de entrada descendentes"
+        }
+    }
+}

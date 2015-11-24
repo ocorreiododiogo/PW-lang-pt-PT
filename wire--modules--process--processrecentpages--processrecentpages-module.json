@@ -1,0 +1,66 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRecentPages\/ProcessRecentPages.module",
+    "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
+    "translations": {
+        "fda27fd4e8f31d46c37d6ebb661d4975": {
+            "text": "Nenhuma p\u00e1gina coincide (ainda)"
+        },
+        "0f1af93a396987467471642622b4f372": {
+            "text": "Esta fun\u00e7\u00e3o requer a permiss\u00e3o page-lister"
+        },
+        "0cd816a2b17a6fd85120a4ffc417ef52": {
+            "text": "P\u00e1ginas recentes"
+        },
+        "e8ec3c5a66a1458617d385c211485937": {
+            "text": "P\u00e1ginas criadas recentemente por %s"
+        },
+        "6164ab6f0d40bf0dbb4d016d70f22451": {
+            "text": "P\u00e1ginas criadas recentemente"
+        },
+        "0fa9b1da7af6dc7c17300d2696d4e840": {
+            "text": "P\u00e1ginas editadas recentemente por %s"
+        },
+        "727d0685214d2e29837bf220bd336876": {
+            "text": "P\u00e1ginas editadas recentemente"
+        },
+        "0d52952360bedad458af277a8f2aeb1e": {
+            "text": "em %s"
+        },
+        "854a4e1057837e016fa0fd26de810760": {
+            "text": "Adicionar outra"
+        },
+        "587e304d5de9c56ac7833cb11fbbbcf9": {
+            "text": "Clique qualquer elemento para adicionar outro com o mesmo tipo"
+        },
+        "67ed6ddb7d890b23166c1bef771e9451": {
+            "text": "Editado"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Criado"
+        },
+        "2ff3c4fe971c877ac58d0d2ae6d21a1f": {
+            "text": "Editado por mim"
+        },
+        "1914dedd048465ec232e765349041af5": {
+            "text": "Criado por mim"
+        },
+        "47d881f2691b3fe7e1aa6ddd1d9362fa": {
+            "text": "P\u00e1gina"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Parentes"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Modelo"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Criado"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "7a194bb4dc7991f70455c1068bc10d94": {
+            "text": "\u00daltimo Criado"
+        }
+    }
+}

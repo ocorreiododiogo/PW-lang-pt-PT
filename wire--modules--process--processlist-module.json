@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Process\/ProcessList.module",
+    "textdomain": "wire--modules--process--processlist-module",
+    "translations": {
+        "5b4883d0e89e3d445d1cd1ccad668cf1": {
+            "text": "O m\u00f3dulo de processo atribu\u00eddo a esta p\u00e1gina parece n\u00e3o estar instalado."
+        },
+        "9040adb9c035d31a6f59c34259371121": {
+            "text": "Nehuma descri\u00e7\u00e3o dispon\u00edvel"
+        },
+        "4ee29ca12c7d126654bd0e5275de6135": {
+            "text": "Lista"
+        },
+        "11edaf952ae49a89083e2f6ed973c774": {
+            "text": "Lista os processos atribu\u00eddos a cada subp\u00e1gina da p\u00e1gina actual"
+        }
+    }
+}

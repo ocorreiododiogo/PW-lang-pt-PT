@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
+    "translations": {
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Ferramentas do Modo de Depura\u00e7\u00e3o"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "P\u00e1ginas Carregadas"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "Vari\u00e1veis API"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Sess\u00e3o"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "M\u00f3dulos Carregados"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d m\u00f3dulos carregado"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d n\u00e3o carregados"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "="
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "Consultas PDO ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "="
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "Consultas MySLi ($db) - despromovido"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Utilizador"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "Perfis Atuais do Utilizador"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Permiss\u00f5es Atuais do Utilizador"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Permiss\u00f5es Atuais do Utilizador nesta p\u00e1gina"
+        }
+    }
+}

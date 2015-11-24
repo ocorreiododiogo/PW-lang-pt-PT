@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Tema de Administra\u00e7\u00e3o para Processwire 2.5+ por Tom Reno (Renobird)"
+        },
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Defini\u00e7\u00f5es de Cores"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Cl\u00e1ssico"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Azul"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Imagens de Utilizador"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Para utilizar esta funcionalidade, o modelo do utilizador precisa ter um campo de imagem. Se o seu modelo n\u00e3o tem um campo de imagem, o avatar ser\u00e1 um \u00edcone. Para adicionar um campo de imagem ao modelo por defeito do utilizador, ir para Defini\u00e7\u00f5es > Modelos > Filtros (Mostrar os modelos do sistema). O modelo do utilizador ser\u00e1 ent\u00e3o mostrado na lista. Se criou um modelo de utilizador suplementar\/alternativo, pode ativar a funcionalidade acrescentando um campo de imagem a este modelo."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Campo de imagem para o modelo %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Nenhum campo de imagem atribu\u00eddo a este modelo"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Sair"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "="
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Campo \"%s\" adicionado aos campos edit\u00e1veis pelo utilizador no seu perfil."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Nomes Mostrados do Utilizador"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Lista de campos, separados por uma v\u00edrgula, utilizados para mostrar o nome na administra\u00e7\u00e3o. (exemplo: primeiro_nome, ultimo_nome)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Estes apenas podem ser campos de texto. Outros tipos de campo ser\u00e3o ignorados."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Nome a mostrar para o modelo %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "\u00cdcones"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Especificar \u00edcones para os elementos de navega\u00e7\u00e3o"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Navega\u00e7\u00e3o de Topo: Alertas"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Navega\u00e7\u00e3o de Topo: Ver P\u00e1gina In\u00edcial"
+        }
+    }
+}

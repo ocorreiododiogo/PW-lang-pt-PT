@@ -1,1 +1,75 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module","textdomain":"wire--modules--inputfield--inputfieldfile--inputfieldfile-module","translations":{"b5a7adde1af5c87d7fd797b6245c2a39":{"text":"Descri\u00e7\u00e3o"},"5e176961ecb3a67e9c653e60de703fdb":{"text":"arraste e solte os ficheiros aqui"},"1a6d5576222d1a16320dda443f43b1fa":{"text":"Ficheiro adicionado"},"a2c68b109a7c8855b92e56e64bdf4c01":{"text":"Ficheiro apagado"},"b896cdc3267a288d8a0082126a91cb06":{"text":"Atingido o limite m\u00e1ximo para carregar ficheiros"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Descri\u00e7\u00e3o"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "arraste e solte os ficheiros aqui"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Ficheiro adicionado:"
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Ficheiro apagado:"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Atingido o limite m\u00e1ximo para carregar ficheiros"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Etiquetas"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "O diret\u00f3rio de destino est\u00e1 vazio ou n\u00e3o existe"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "O diret\u00f3rio de destino n\u00e3o pode ser escrito"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Descomprimir ficheiros ZIP?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Se assinalado, os arquivos ZIP ser\u00e3o descomprimidos e todos os ficheiros v\u00e1lidos adicionados ao carregamento (se for suportado pela configura\u00e7\u00e3o do alojamento). O limite m\u00e1ximo de ficheiros deve ser posto a 0 (sem limite) para que o carregamento de ficheiros ZIP seja operacional."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "N\u00famero de linhas para o campo de descri\u00e7\u00e3o?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Introduzir o n\u00famero de linhas dispon\u00edveis para o campo de descri\u00e7\u00e3o de ficheiro, ou introduzir 0 para n\u00e3o ter um campo de descri\u00e7\u00e3o"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Ficheiros"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Carregamento de um ou v\u00e1rios ficheiros (pode ser ordenado)"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Apagar"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Nenhuma extens\u00e3o de ficheiro est\u00e1 definida para este campo"
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "A valida\u00e7\u00e3o do ficheiro falhou"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Ficheiro %s recusado porque j\u00e1 est\u00e1 no sistema de ficheiros e pertence a outro campo."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Substituir os ficheiros existentes?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Se seleccionado, um ficheiro carregado com o mesmo nome que um existente ir\u00e1 substituir o ficheiro existente (a descri\u00e7\u00e3o e as etiquetas ficar\u00e3o). Se n\u00e3o for seleccionado, os nomes dos ficheiros carregados ser\u00e3o modificados de maneira a ser \u00fanicos."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Por favor anotar que quando esta op\u00e7\u00e3o est\u00e1 activa, os ficheiros carregados via AJAX s\u00e3o guardados dentro da p\u00e1gina imediatamente no carregamento, em vez de quando clique em \"guardar\". Resulta que \u00e9 prefer\u00edvel deixar esta op\u00e7\u00e3o desactivada a menos que precisa especificamente dela."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Desactivar as descri\u00e7\u00f5es multi-l\u00ednguas?"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Por defeito, as descri\u00e7\u00f5es s\u00e3o multi-l\u00ednguas quando tem o Suporte de Linguagem instalado. Se pretende desactivar as descri\u00e7\u00f5es multi-l\u00ednguas, seleccione esta op\u00e7\u00e3o."
+        }
+    }
+}

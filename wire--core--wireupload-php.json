@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Carregamento com sucesso"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "O ficheiro a carregar excede a directiva upload_max_filesize em php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "O ficheiro a carregar excede a directiva MAX_FILE_SIZE que foi especificada no formul\u00e1rio HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "O ficheiro a carregar foi s\u00f3 parcialmente carregado."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Nenhum ficheiro foi carregado."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Falta uma pasta tempor\u00e1ria."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Falha a escrever o ficheiro no disco."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Carregamento de ficheiro interrompido pela extens\u00e3o."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limite m\u00e1xima de carregamento de ficheiro atingida"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "extens\u00e3o de ficheiro inv\u00e1lida, faz favor utilizar uma das seguintes:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Excedido o tamanho m\u00e1ximo de ficheiro permitido"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Nenhum ficheiro encontrado no ficheiro ZIP"
+        }
+    }
+}

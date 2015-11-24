@@ -1,1 +1,129 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module","textdomain":"wire--modules--process--processpageeditlink--processpageeditlink-module","translations":{"0f1d07df1a82d22e187c72bacabc1117":{"text":"Selecionar p\u00e1gina"},"ddb0ec6745aefbc02b9c9eb0dfb2e796":{"text":"Insira um URL, selecione uma p\u00e1gina ou selecione um ficheiro para conetar:"},"f6f7f0f8aa1ef94fdf01a81f1cb24e7a":{"text":"Link para um URL"},"d0371b1908138f8cd5be5356ef5a46ab":{"text":"Link para uma p\u00e1gina"},"629ea6ac7fee06a764a49cb39bd356d9":{"text":"Abrir numa nova janela?"},"1f3e9bfe3126acfe0af746ec6ed2db68":{"text":"Se selecionado, o link abrir\u00e1 numa nova janela, mantendo a corrente janela intocada."},"149a978aed458d66e08de0460cdbf65e":{"text":"Link para um ficheiro"},"27c6c65717076df3e127c24bee401fa7":{"text":"Para selecionar um ficheiro pertencente a outra p\u00e1gina, clique acima em 'Link para uma p\u00e1gina', e escolha a p\u00e1gina de onde quer selecionar o ficheiro."}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditLink\/ProcessPageEditLink.module",
+    "textdomain": "wire--modules--process--processpageeditlink--processpageeditlink-module",
+    "translations": {
+        "0f1d07df1a82d22e187c72bacabc1117": {
+            "text": "Selecionar p\u00e1gina"
+        },
+        "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
+            "text": "Insira um URL, selecione uma p\u00e1gina ou selecione um ficheiro para conetar:"
+        },
+        "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
+            "text": "Liga\u00e7\u00e3o para um URL"
+        },
+        "629ea6ac7fee06a764a49cb39bd356d9": {
+            "text": "Abrir numa nova janela?"
+        },
+        "1f3e9bfe3126acfe0af746ec6ed2db68": {
+            "text": "Se selecionado, o link abrir\u00e1 numa nova janela, mantendo a corrente janela intocada."
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Liga\u00e7\u00e3o"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Informe um URL, um endere\u00e7o de email, uma \u00e2ncora ou uma palavra de procura de p\u00e1gina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Seleccionne uma \u00e2ncora"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "\u00c2ncoras encontradas no texto editado"
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Selecionar P\u00e1gina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Selecionar Sub-p\u00e1gina"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "\u00c9 o mesmo que \"Selecionar P\u00e1gina\" acima, mas pode ser mais r\u00e1pido de usar se for ligado \u00e0s sub-p\u00e1ginas da p\u00e1gina actual."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Atributos"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Texto adicional para descrever a liga\u00e7\u00e3o."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Alvo"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Onde esse liga\u00e7\u00e3o ser\u00e1 aberta"
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Rela\u00e7\u00e3o da liga\u00e7\u00e3o com o documento."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "Classe"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Classes adicionais que pode modificar a apar\u00eancia ou o comportamento da liga\u00e7\u00e3o."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Pode personalizar os atributos dispon\u00edveis abaixo nos param\u00eatros do modulo %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "Abrir numa nova janela"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "informar os motores de busca para n\u00e3o seguir"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Selecionar Ficheiro"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostrando os ficheiros na p\u00e1gina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Selecionar o ficheiro na p\u00e1gina que quer ligar."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Para selecionar um ficheiro de outra p\u00e1gina, cliquar em \"Selecionar P\u00e1gina\" encima e escolher a p\u00e1gina da qual quer slecionar o ficheiro."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Op\u00e7\u00f5es de Atributos"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Escrever um atributo por linha. O utilizador poder\u00e1 selecionar estas op\u00e7\u00f5es quando acrescentar liga\u00e7\u00f5es. Para tornar uma op\u00e7\u00e3o selecionada por defeito (para novas liga\u00e7\u00f5es), escrever um \"+\" a frente."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atributos das liga\u00e7\u00f5es externas"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Specificar o atributo selecionado por defeito que ser\u00e1 automaticamente posto quando uma liga\u00e7\u00e3o externa \u00e9 detectada."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Se utilizado, o valor deve ser uma daquelas definidas acima."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Exemplo: especificar **nofollow** far\u00eda por defeito as liga\u00e7\u00f5es externas a n\u00e3o serem seguidas pelos motores de busca."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Exemplo: especificar **_blank** far\u00eda por defeito as liga\u00e7\u00f5es externas abrirem numa nova janela."
+        },
+        "eb629addbfc0dd4a0353d6defff81923": {
+            "text": "Tipo de URL para liga\u00e7\u00e3o de p\u00e1gina"
+        },
+        "6b02648ef824ca0a58b9a40518ff1152": {
+            "text": "Absoluto (defeito)"
+        },
+        "2c8a0fad581fd58be051633bfdaa53d0": {
+            "text": "URLs relativas s\u00f3 dentro dos mesmos ramos"
+        },
+        "4750338c560d44be6d53bd75e386a966": {
+            "text": "Sempres URLs relativas"
+        },
+        "2453cc3c047929e3210a51607202b8bb": {
+            "text": "*Actualmente a experi\u00eancia"
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "="
+        }
+    }
+}

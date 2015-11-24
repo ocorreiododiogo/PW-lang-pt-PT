@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "In\u00edcio Administra\u00e7\u00e3o"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Age como um marcador de posi\u00e7\u00e3o para a raiz administrativa. Assegura um controlo correcto dos re-encaminhamentos depois de iniciar uma sess\u00e3o."
+        }
+    }
+}

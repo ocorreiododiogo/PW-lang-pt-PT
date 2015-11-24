@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "Selecione os modelos que pretende exportar"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NOME"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "ETIQUETA"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "CAMPOS"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "MODIFICADOS"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Mai.+Clique para selecionar v\u00e1rios em sequ\u00eancia. Ctrl+Clique (ou Cmd+Clique) para selecionar v\u00e1rios individualmente. Crtl+A (ou Cmd+A) para selecionar todos."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exportar Dados"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copiar e colar estes dados dentro da caixa de \"Importa\u00e7\u00e3o\" de outra instala\u00e7\u00e3o."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Clique em qualquer parte da caixa para selecionar todos os dados de exporta\u00e7\u00e3o. Uma vez selecionados, copiar os dados com Ctrl+C ou Cmd+C"
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Colar nos dados a partir de uma exporta\u00e7\u00e3o."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Copiar os dados exportados de outra instala\u00e7\u00e3o e colar na caixa acima com Ctrl+V ou Cmd+V"
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Pr\u00e9-visualiza\u00e7\u00e3o"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "novo"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Modifica\u00e7\u00f5es"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Propriedade"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Valor Antigo"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Novo Valor"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nenhuma modifica\u00e7\u00e3o pendente."
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Modificar este modelo?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Criar este modelo?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "Clique sim para mostrar as modifica\u00e7\u00f5es"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "\u00c0s vezes pode ser preciso duas consolida\u00e7\u00f5es antes que as modifica\u00e7\u00f5es sejam aplicadas. Por favor rever as modifica\u00e7\u00f5es pendentes abaixo e consolide-as conforme a necessidade."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Por favor rever as modifica\u00e7\u00f5es pendentes abaixo e consolide-as quando prontas. Se houver qualquer modifica\u00e7\u00e3o que n\u00e3o quer aplicar, desmarque a caixa onde for apropriado."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Consolidar as Modifica\u00e7\u00f5es"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "As suas modifica\u00e7\u00f5es foram aplicadas!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nenhuma modifica\u00e7\u00e3o foi encontrada"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Guardado:"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "Adicionado:"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Modificado:"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exportar"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "="
+        },
+        "12c658575040446e9b2ffdfaaf7bc115": {
+            "text": "Importar"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Sim"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "N\u00e3o"
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d aviso"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "%d avisos"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "%d propriedade encontrada para aplicar."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "%d propriedades encontradas para aplicar."
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Avisos em %d modelo"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Avisos em %d modelos"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "%d novo modelo encontrado para adicionar"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "%d novos modelos encontrados para adicionar"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "%d modelo existente encontrado para atualizar"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "%d modelos existentes encontrados para atualizar"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "%d elemento adicionado"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "%d elementos adicionados"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "%d elemento modificado"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "%d elementos modificados"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "%d elemento ignorado"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "%d elementos ignorados"
+        }
+    }
+}

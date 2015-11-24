@@ -1,0 +1,51 @@
+{
+    "file": "wire\/core\/Modules.php",
+    "textdomain": "wire--core--modules-php",
+    "translations": {
+        "3919fe955716c54c409b522a1003f3e0": {
+            "text": "N\u00e3o tem permiss\u00e3o para executar este m\u00f3dulo"
+        },
+        "de7a358da1292f56861c726d3c860dc0": {
+            "text": "Imposs\u00edvel de instalar o m\u00f3dulo exigido"
+        },
+        "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
+            "text": "Permiss\u00e3o adicionada: %s"
+        },
+        "e349b4d55d1eb71f3b313924149aa242": {
+            "text": "Erro a adicionar a permiss\u00e3o: %s"
+        },
+        "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
+            "text": "Instala\u00e7\u00e3o Autom\u00e1tica de M\u00f3dulo"
+        },
+        "2ccb0669e8a2f6a3117f340bb36e8d4b": {
+            "text": "Desinstala\u00e7\u00e3o Autom\u00e1tica de M\u00f3dulo"
+        },
+        "37ab3f591b07274ff3b4c891af63e4d1": {
+            "text": "Permiss\u00e3o Eliminada: %s"
+        },
+        "7dd5a577bde82df3631263cfd04a07bb": {
+            "text": "Erro a eliminar a permiss\u00e3o: %s"
+        },
+        "141e30f2de96660020efd996cc916413": {
+            "text": "Depend\u00eancia errada de m\u00f3dulo: %s requer %s"
+        },
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "ser\u00e1 aplicado no pr\u00f3ximo carregamento do m\u00f3dulo"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Actualiza\u00e7\u00e3o do m\u00f3dulo"
+        },
+        "edf71dd6396541cf37f54bf079e21006": {
+            "text": "Detectado %d novo m\u00f3dulo: %s"
+        },
+        "8d36abbc1aa8f167970999175380a355": {
+            "text": "Detectados %d novos m\u00f3dulos: %s"
+        },
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "Detectado %d modifica\u00e7\u00e3o de vers\u00e3o do m\u00f3dulo"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "Detectados %d modifica\u00e7\u00f5es de vers\u00e3o do m\u00f3dulo"
+        }
+    }
+}

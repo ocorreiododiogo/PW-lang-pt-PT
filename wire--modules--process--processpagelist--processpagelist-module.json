@@ -1,1 +1,66 @@
-{"file":"wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module","textdomain":"wire--modules--Process--ProcessPageList--ProcessPageList-module","translations":{"7dce122004969d56ae2e0245cb754d35":{"text":"Editar"},"4351cfebe4b61d8aa5efa1d020710005":{"text":"Ver"},"03c2e7e41ffc181a4e84080b4710e81e":{"text":"Criar"},"6bc362dbf494c61ea117fe3c71ca48a5":{"text":"Mover"},"ce2c8aed9c2fa0cfbed56cbda4d8bf07":{"text":"Esvaziar"},"f4ec5f57bd4d31b803312d873be40da9":{"text":"Mudar"},"ea4788705e6873b424c65e91c2846b19":{"text":"Cancelar"},"e0626222614bdee31951d84c64e5e9ff":{"text":"Selecionar"},"46b816f573557a53c93ac78bbcfa9493":{"text":"Anular a sele\u00e7\u00e3o"},"d3da97e2d9aee5c8fbe03156ad051c99":{"text":"Mais"},"d95deddfb80310ff0d1d63013611777c":{"text":"Clique e arraste para mover"},"f413b7eb4ef50a382b0fe0cfe04fdc30":{"text":"Lixo aberto: arrastar p\u00e1ginas para aqui para eliminar"},"de306d89ec101aba6fb73c6879710e6c":{"text":"404 P\u00e1gina n\u00e3o encontrada"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Administra\u00e7\u00e3o"},"a7e253cd8dd95da3e20daf45519a8dc2":{"text":"Lixo"},"8cf04a9734132302f96da8e113e80ce5":{"text":"P\u00e1gina de entrada"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Mudar"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Cancelar"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecionar"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Anular a sele\u00e7\u00e3o"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mais"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Clique e arraste para mover"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Lixo"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Erro de rede, por favor experimente mais tarde"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "erro descconhecido, por favor experimente mais tarde"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nome de campo de p\u00e1gina para mostrar"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Cada p\u00e1gina numa PageList \u00e9 identificada por uma etiqueta, tipicamente um t\u00edtulo ou um campo cabe\u00e7alho. Pode especificar qual o campo a mostrar aqui. Para especificar v\u00e1rios campos, separe cada nome de campo com um espa\u00e7o, ou use o seu pr\u00f3prio texto formatado com nomes de campos dentro de { }. Se o campo refere um objecto (como outra p\u00e1gina), ent\u00e3o especifique a propriedade com um ponto, ex {outrap\u00e1gina.t\u00edtuo}. A notar que se a propriedade especificada devolve um valor nulo, ent\u00e3o Processwire ir\u00e1 usar o campo \"Nome\"."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Poder\u00e1 eventualmente sobrepor outros param\u00eatros por cada modelo nos param\u00eatros avan\u00e7ados de cada modelo."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Mostrar as ac\u00e7\u00f5es de p\u00e1ginas a sobrevoar?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Por defeito, as ac\u00e7\u00f5es das p\u00e1ginas aparecem depois de clicar (pelo menos no modelo administrativo por defeito). Para as fazer aparecer quando sobrevoadas, marque esta caixa."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Para mais op\u00e7\u00f5es aqui, ver os par\u00e2metros de $config->pageList em \/wire\/config.php. Pode copiar esses par\u00e2metros em \/site\/config.php para sobrepor-se a estes."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Valor por defeito \u00e9 %s."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Se deixado o valor por defeito, este par\u00e2metro pode tamb\u00e9m ser especificado no array $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "N\u00famero de p\u00e1ginas a mostrar antes de paginar"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "velocidade de anima\u00e7\u00e3o (em ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "\u00c9 a velocidade a qual cada ramo na \u00e1rvore de p\u00e1ginas mexe-se. N\u00fameros mais baixos s\u00e3o mais r\u00e1pidos mas menos vis\u00edveis. Para nenhuma anima\u00e7\u00e3o escreve 0."
+        }
+    }
+}

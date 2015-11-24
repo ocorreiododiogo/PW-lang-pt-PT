@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/InputfieldCommentsAdmin.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--inputfieldcommentsadmin-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Eliminar"
+        },
+        "97154f7c3d4195084cbcb58bc5357c7a": {
+            "text": "Coment\u00e1rio #%d (%s)"
+        },
+        "077821dbbc7b778e3fccdb71e1f8cda3": {
+            "text": "TODOS os novos coment\u00e1rios"
+        },
+        "a2c889314eecccf6704dd2427f12b478": {
+            "text": "Apenas RESPOSTAS"
+        },
+        "88559a0cfd8250c9d65970cc145c92d4": {
+            "text": "="
+        },
+        "5150f466372999feb1c31b868e087dfc": {
+            "text": "O spam \u00e9 automaticamente eliminado depois do tempo especificado na configura\u00e7\u00e3o do campo."
+        },
+        "193a4762fa2301d6e5d9fac2730dbe71": {
+            "text": "Este elemento est\u00e1 a espera de uma aproba\u00e7\u00e3o ou de uma elimina\u00e7\u00e3o."
+        },
+        "95742f3daaebcf075ad53961b11fc0dd": {
+            "text": "Coment\u00e1rio #%1$d Enviado no %2$s por %3$s"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Estatuto"
+        },
+        "84c4dfc8fccf9350a9610e366ae769a5": {
+            "text": "Responder Para"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Cita"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "Email"
+        },
+        "15bbb9d0bbf25e8d2978de1168c749dc": {
+            "text": "="
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Estrelas"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        },
+        "8922ee2d287d6d1cad3fd33f6341f512": {
+            "text": "Notifica\u00e7\u00f5es por Email:"
+        },
+        "ece9015e4facb7c419ce80abecfd6852": {
+            "text": "N\u00e3o existem actualmente elementos para mostrar."
+        },
+        "dea78eecface40ce1489d1acdc31eae4": {
+            "text": "Removido o coment\u00e1rio #%d"
+        },
+        "58b6f822b062991647cf2e70b0140352": {
+            "text": "Actualizado %s para o coment\u00e1rio #%d"
+        },
+        "4da50726e74180c03ab1cfe637bb590b": {
+            "text": "Administra\u00e7\u00e3o dos Coment\u00e1rios"
+        },
+        "9e1775dd11710f1858dc1f9c21174ec8": {
+            "text": "Fornece uma interface administrativa para trabalhar com coment\u00e1rios"
+        },
+        "a12b241da69948907eecb3786cedc5a3": {
+            "text": "Aprovado"
+        },
+        "af4a8ef24b938b7857109b49e38c8969": {
+            "text": "Pendente"
+        },
+        "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
+            "text": "Spam"
+        }
+    }
+}

@@ -1,1 +1,81 @@
-{"file":"wire\/templates-admin\/default.php","textdomain":"wire--templates-admin--default-php","translations":{"7d97481b1fe66f4b51db90da7e794d9f":{"text":"perfil"},"4236a440a662cc8253d7536e5aa17942":{"text":"terminar sess\u00e3o"},"453aceb005ceaf54a47da15fee8b2a26":{"text":"P\u00e1ginas"},"ad2376beebecdcf7846ba973fa1a005b":{"text":"Configura\u00e7\u00e3o"},"bf17ac149e2e7a530c677e9bd51d3fd2":{"text":"M\u00f3dulos"},"bf733d8a933c1601697f364223fc7ecb":{"text":"Acesso"},"9cfefed8fb9497baa5cd519d7d2bb5d7":{"text":"pt"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Administra\u00e7\u00e3o"}}}
+{
+    "file": "wire\/templates-admin\/default.php",
+    "textdomain": "wire--templates-admin--default-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "P\u00e1ginas"
+        },
+        "ad2376beebecdcf7846ba973fa1a005b": {
+            "text": "Configura\u00e7\u00e3o"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "M\u00f3dulos"
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "Acesso"
+        },
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "pt"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administra\u00e7\u00e3o"
+        },
+        "a7d6475ec8993b7224d6facc8cb0ead6": {
+            "text": "S\u00edtio"
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Hierarquia"
+        },
+        "4cfa6c981549e990fe2344e4c805405e": {
+            "text": "Procurar"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Ver Site"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "L\u00ednguas"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Utilizadores"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Fun\u00e7\u00f5es"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permiss\u00f5es"
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "Modelos"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Campos"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar Novo"
+        },
+        "dae52b80711ee1029c7006f95018d300": {
+            "text": "Recente"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Perfil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Registos"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcadores"
+        },
+        "b2a54cbbf075b72ad60f3d2afc27e996": {
+            "text": "Editar P\u00e1gina"
+        },
+        "c43a3544f4b6646216ab7fe6020b84b2": {
+            "text": "Lista de P\u00e1ginas"
+        }
+    }
+}

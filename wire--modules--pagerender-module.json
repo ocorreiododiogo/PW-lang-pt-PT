@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Cache de p\u00e1gina expirado para o s\u00edtio inteiro"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Ficheiro de cache apagado: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Ficheiro de cache apagado:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Ficheiro de cache apagado para %d p\u00e1gina(s)"
+        },
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "Composi\u00e7\u00e3o da P\u00e1gina"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Adiciona um m\u00e9todo de composi\u00e7\u00e3o a Page e cria um cache da sa\u00edda de p\u00e1gina."
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Apagados %d ficheiros de cache para %d p\u00e1ginas"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "Apagar o cache em disco de composi\u00e7\u00e3o de p\u00e1gina?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Existem actualmente %d p\u00e1ginas com cache em %s"
+        }
+    }
+}

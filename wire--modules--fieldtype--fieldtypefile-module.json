@@ -1,0 +1,90 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "O campo \"%s\" ainda n\u00e3o est\u00e1 pronto a ser utilizado e precisa ser configurado."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "As defini\u00e7\u00f5es ainda n\u00e3o foram consolidadas."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Por favor rever as defini\u00e7\u00f5es nesta p\u00e1gina e guardar uma vez mais (mesmo se n\u00e3o modificar nada) para confirmar que aceita as modifica\u00e7\u00f5es."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nome de ficheiro"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Estens\u00f5es de Ficheiro V\u00e1lidas"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Introduzir todas as extens\u00f5es de ficheiro permitidas para este campo de carregamento de ficheiro. Separe cada extens\u00e3o com um espa\u00e7o. nenhum ponto ou v\u00edrgula. Este campo n\u00e3o \u00e9 sens\u00edvel \u00e0s mai\u00fasculas."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "N\u00famero m\u00e1ximo de ficheiros permitido"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0= Sem Limite"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Valor formatada"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "seleccione o tipo de valor que pretende fornecer com este campo quando est\u00e1 utilizado no front-end do seu s\u00edtio a partir da API."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Quando a formata\u00e7\u00e3o da sa\u00edda est\u00e1 off, o valor \u00e9 sempre um array (WireArray)"
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Automatico (elemento \u00fanico ou null quando max de ficheiros est\u00e1 em 1, array de elementos nos outros casos)"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Array de elementos"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Elemento \u00fanico (null se v\u00e1zio)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Cadeia de texto composta (que voc\u00ea fornece)"
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Cadeia de texto composta"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Fornece a cadeia de texto composta que quer afixar como o valor do campo. Se o campo conter v\u00e1rios elementos, esta cadeia ser\u00e1 composta v\u00e1rias vezes. Se o campo conter nenhum elemento, uma cadeia em branco ser\u00e1 utilizada."
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "Pode utilizar uma das etiquetas seguintes:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "Valor por defeito (quando v\u00e1zio)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Opcionalmente seleccione uma p\u00e1gina que cont\u00e9m o valor por defeito (no mesmo campo). Pode querer criar uma p\u00e1gina especificamente para este prop\u00f3sito."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Formatadores de texto (para descri\u00e7\u00f5es de ficheiro)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Seleccione um ou mais formatadores de texto (na ordem) que ser\u00e3o aplicados \u00e0 descri\u00e7\u00e3o do ficheiro quando a formata\u00e7\u00e3o de sa\u00edda est\u00e1 activa. O Codificador de Entidade HTML \u00e9 recomendado como um m\u00ednimo."
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Utilizar Etiquetas?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Se marcada, o campo ir\u00e1 tamb\u00e9m conter uma op\u00e7\u00e3o de etiqueta em suplemento da descri\u00e7\u00e3o."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo de Entrada de Campo"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "O tipo de campo que ser\u00e1 utilizado para colectar as entradas."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Ficheiros"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Campo que armazena um ou mais ficheiros"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Copiar"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Copiar P\u00e1gina"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel carregar a p\u00e1gina"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(c\u00f3pia)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(c\u00f3pia %d)"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Ir\u00e1 fazer uma c\u00f3pia de %s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "T\u00edtulo da nova p\u00e1gina"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Tornar a nova p\u00e1gina n\u00e3o publicada?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Se marcada, a p\u00e1gina clonada ter\u00e1 um estatuto de n\u00e3o publicado, assim ainda n\u00e3o ser\u00e1 vista no front-end do seu s\u00edtio."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Copiar as subp\u00e1ginas tamb\u00e9m?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Se marcada, todos as subp\u00e1ginas, descendentes, etc.. ser\u00e3o tamb\u00e9m clonadas com a p\u00e1gina."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Aviso: se existir uma muita larga estrutura de p\u00e1ginas por baixo desta, pode demorar muito tempo ou ser imposs\u00edvel de completar a tarefa."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "N\u00e3o \u00e9 poss\u00edvel de clonar a p\u00e1gina %s"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "P\u00e1gina \"%1$s\" clonada para \"%2$s\""
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Clonada para: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "N\u00e1o \u00e9 poss\u00edvel clonar a p\u00e1gina"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Clonar P\u00e1gina"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "D\u00e1 a possibilidade de clonar\/copiar\/duplicar p\u00e1ginas na administra\u00e7\u00e3o. Adiciona uma op\u00e7\u00e3o \"copiar\" a todas as p\u00e1ginas (quando aplic\u00e1vel) na Lista de P\u00e1ginas"
+        }
+    }
+}

@@ -1,1 +1,21 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module","textdomain":"wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module","translations":{"49ee3087348e8d44e1feda1917443987":{"text":"Nome"},"152cfcb2150e04c8533d86e9d7642b11":{"text":"Qualquer combina\u00e7\u00e3o de letras (a-z), n\u00fameros (0-9), h\u00edfen ou tra\u00e7o inferior (sem espa\u00e7os)."}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Qualquer combina\u00e7\u00e3o de letras (a-z), n\u00fameros (0-9), h\u00edfen ou tra\u00e7o inferior (sem espa\u00e7os)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Substitui\u00e7\u00e3o de caracteres"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Entre a substitui\u00e7\u00e3o que vai ocorrer quando um utilizador escreve caracteres no campo de nome da p\u00e1gina. Escrever uma substitui\u00e7\u00e3o por linha no formato chave=valor."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "O valor de substitui\u00e7\u00e3o de cada um deve conter um mais caracteres a-z, 0-9, tra\u00e7o, underscore ou ponto."
+        }
+    }
+}

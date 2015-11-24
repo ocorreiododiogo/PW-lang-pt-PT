@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/WireCache.php",
+    "textdomain": "wire--core--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Cache guardado"
+        },
+        "a188964d2912198a985f7bcd9564c530": {
+            "text": "Cache Apagado"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "A manuten\u00e7\u00e3o geral acabou com %d cache(s)"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "A manuten\u00e7\u00e3o geral acabou com %d cache(s) de p\u00e1ginas guardadas"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "A manuten\u00e7\u00e3o geral acabou com %d cache(s) de modelos guardados"
+        }
+    }
+}

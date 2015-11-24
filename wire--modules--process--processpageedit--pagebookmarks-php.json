@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcadores"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Editar Marcadores"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "todos"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "N\u00e3o existem atualmente marcadores definidos"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "todos"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Marcador para: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "Editor de Marcador %s"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Note que apenas os super utilizadores podem ver este editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Adicionar Marcador"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Clique a a\u00e7\u00e3o \"adicionar marcador\" abaixo para selecionar as p\u00e1ginas a adicionar como marcadores. Se quer que os marcadores sejam vis\u00edveis por um perfil de utilizador espec\u00edfico, selecione primeiro o perfil acima."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Marcadores guardados"
+        }
+    }
+}

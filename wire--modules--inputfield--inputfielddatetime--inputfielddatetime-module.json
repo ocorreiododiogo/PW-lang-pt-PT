@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "\/wire\/modules\/Jquery\/JqueryUI\/i18n\/jquery.ui.datepicker-pt.js"
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Tamanho"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "A largura afixada deste campo (em caracteres)"
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Selecionador de Data"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Nenhum selecionador de data\/hora"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Selecionador de data\/hora quando clicar no bot\u00e3o"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Selecionador de data\/hora quando focar no campo"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "Selecionador de data em linha sempre vis\u00edvel (nenhum selecionador de hora)"
+        },
+        "c1a4d7df2061b105045dc92d2dff78f2": {
+            "text": "Intervalo de Anos do Selecionador de Data"
+        },
+        "062e5153dad257d2a6a1560033719e9b": {
+            "text": "Quando o selecionador de data est\u00e1 utilizado, tem um intervalo de anos selecion\u00e1veis de menos e mais 10 anos a partir do ano em curso. Para aumentar ou reduzir isto, especifique a quantidade de anos antes e depois do [ano em curso] com este formato: \"-30:+20\", o que mostrar\u00e1 30 anos antes e 20 anos depois de hoje."
+        },
+        "26fe23eafa82406bc0d0cd216a734d73": {
+            "text": "O valor por defeito quando nenhum valor existe \u00e9 \"-10:+10\" o que mostra um intervalo do sele\u00e7\u00e3o de data de 10 anos antes de hoje e 10 anos depois."
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Formatos de Entrada de Data\/Hora"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Formato de Entrada de Data"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Selecione o formato a utilizar para a entrada do campo pelo utilizador. A sua sele\u00e7\u00e3o ir\u00e1 preencher o campo abaixo, que pode personalizar mais se precisar."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Formato de Entrada da Hora"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Selecione um formato opcional de hora a utilizar para a entrada. Se for utilizado, a op\u00e7\u00e3o do calend\u00e1rio ir\u00e1 incluir um selecionador de hora."
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "C\u00f3digo do Formato de Entrada da Data"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Isto est\u00e1 automaticamente construido a partir da data selecionada acima, a menos que modifique-a."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Ver as refer\u00eancias da fun\u00e7\u00e3o [PHP date](http:\/\/www.php.net\/manual\/en\/function.date.php) para mais informa\u00e7\u00e3o sobre como personalizar estes formatos."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Pode em op\u00e7\u00e3o especificar tamb\u00e9m aqui formatos para outras l\u00ednguas. Qualquer l\u00edngua deixada em branco herdar\u00e1 as defini\u00e7\u00f5es por defeito."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "C\u00f3digo de Formato de Entrada da Hora"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Isto est\u00e1 automaticamente construido a partir da hora selecionada acima, a menos que modifique-a."
+        },
+        "be7e95b42b8aff2713adf794a2eb666b": {
+            "text": "Escolher a data de hoje por defeito?"
+        },
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Se marcada, este campo ter\u00e1 a data de hoje quando nenhum valor \u00e9 introduzido."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Texto do Marcador de posi\u00e7\u00e3o"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Texto opcional de marcador de posi\u00e7\u00e3o que aparece no campo quando em branco."
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Data\/Hora"
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Campo de entrada que aceita datas e opcionalmente horas"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Valor por defeito"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Para ter valores por defeito pr\u00e9-seleccionados, introduz os valores em op\u00e7\u00e3o abaixo (um por linha). Para a selec\u00e7\u00e3o de p\u00e1ginas, isto deveria ser o n\u00famero ID da p\u00e1gina."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Esta op\u00e7\u00e3o de valores por defeito est\u00e1 activa porque marcou a caixa \"exigida\" acima."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Op\u00e7\u00f5es"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Introduzir as op\u00e7\u00f5es que podem ser seleccionadas, uma por linha."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Para fazer preceder a sua lista com uma op\u00e7\u00e3o em branco, introduz apenas o simbolo igual \"=\" como primeira op\u00e7\u00e3o."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Para tornar uma op\u00e7\u00e3o seleccionada, a fazer preceder com o simbolo mais. Exemplo: +Minha Op\u00e7\u00e3o"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Para manter o valor separado da etiqueta, separe-os com o simbolo igual. Exemplo: valor = Minha Op\u00e7\u00e3o"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Para criar um optgroup (grupo de op\u00e7\u00f5es)  adianta as op\u00e7\u00f5es do grupo com 3 ou mais espa\u00e7os."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleccionar"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "Selec\u00e7\u00e3o de um s\u00f3 valor a partir de um menu descendente de selec\u00e7\u00e3o"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Eliminar"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Ordenar"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Novo"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "N\u00e3o Publicado"
+        },
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Este elemento ser\u00e1 edit\u00e1vel depois de guardar."
+        },
+        "138103c4e1d9c846d0afd000e5b928c8": {
+            "text": "Adicionar Elemento"
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Repetidor"
+        },
+        "25c63396ad92c7bbb48fa4aa21adc5e4": {
+            "text": "Repete os campos de outro modelo. Fornece a entrada para FieldTypeRepeater"
+        }
+    }
+}

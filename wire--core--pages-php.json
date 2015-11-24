@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/Pages.php",
+    "textdomain": "wire--core--pages-php",
+    "translations": {
+        "9ba12390dc16d0bb6b897e136830b4e4": {
+            "text": "P\u00e1gina Sem Titulo"
+        },
+        "f7b20059533e8267e92eecda0b6eee8e": {
+            "text": "Erro a guardar o campo \"%s\""
+        }
+    }
+}

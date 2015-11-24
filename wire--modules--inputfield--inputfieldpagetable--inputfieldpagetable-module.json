@@ -1,0 +1,111 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[em branco]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Por favor configurar o campo com a selec\u00e7\u00e3o de um modelo antes de utiliza-lo."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Por favor introduzir uma ou mais colunas nas deffini\u00e7\u00f5es do campo antes de utiliza-lo."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Foram encontradas subp\u00e1ginas que podem ser adiconados a esta tabela. Marcar a caixa junto daquelas que quer adicionar."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Seleccionar todas"
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "="
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "Foram adicionadas %d p\u00e1gina(s) existente(s) \u00e0 tabela."
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Campos da tabela para mostrar na administra\u00e7\u00e3o"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Introduzir os nomes dos campos (1 por linha) que quer mostrar como colunas da tabela. Para especificar uma largura de coluna do campo, especificar \"nome_campo=30\" onde \"30\" \u00e9 a largura da coluna (em percentagem). Quando especificar larguras, fazer com que soma de todas as colunas chegue a 100."
+        },
+        "26fbcf76e1954ff7641a38a979ac4b62": {
+            "text": "="
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nome"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Criado"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Publicado"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificado por"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Criado Por"
+        },
+        "6ca734172827db670a1e2ea88e6c5401": {
+            "text": "="
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Caminho"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Modelo"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Parentes"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Subp\u00e1ginas"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Estatuto"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Adicionar Novo"
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Pode especificar qualquer campo nativo ou personalizado. Pode tamb\u00e9m utilizar subcampos (campo.subcampo) com campos que contem v\u00e1rias propriedades, tal como refer\u00eancias de p\u00e1gina."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Os campos personalisados afectados aos seus modelos s\u00e3o os seguintes:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Para ver aqui uma lista dos poss\u00edveis campos personalisados, seleccionar um modelo na aba \"Detalhes\", guardar e voltar para aqui."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Formato autom\u00e1tico de Nome de P\u00e1gina"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Quando informado, as p\u00e1ginas ser\u00e3o automaticamente criadas com este formato de nome cada vez que um utilizador clicar o bot\u00e3o \"Adicionar novo\"."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Se o formato de nome conter qualquer car\u00e1cter n\u00e3o alfanum\u00e9rico, ser\u00e1 considerado como um formato de [data PHP](http:\/\/www.php.net\/manual\/en\/function.date.php). Se conter s\u00f3 caracteres alfanum\u00e9ricos, ent\u00e3o ser\u00e1 utilizado directamente, com um n\u00famero acrescentado no fim (se for necess\u00e1rio) para assegurar a unicidade."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Exemplo: **Ymd:His** \u00e9 um bom formato de nome para nomes de p\u00e1ginas baseadas em data\/hora."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Comportamento modal da janela de edi\u00e7\u00e3o"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Fecha automatic\u00e1mente quando guardar (por defeito)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Manter a janela aberta, fechar manualmente"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "="
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Campos de entrada para acompanhar FieldtypePageTable"
+        }
+    }
+}

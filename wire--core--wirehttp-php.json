@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "As URLs para descarregar devem come\u00e7ar com http:\/\/ ou https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "Erro fopen para o nome de ficheiro:"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "N\u00e3o foi poss\u00edvel descarregar o ficheiro"
+        }
+    }
+}

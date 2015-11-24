@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "F\u00f3runs de suporte"
+        },
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "Documenta\u00e7\u00e3o"
+        },
+        "aecb91ec8d874934a5dece9ac6ec55c5": {
+            "text": "="
+        },
+        "1c8a4467581c8a67def0a02f975a9f10": {
+            "text": "="
+        },
+        "c0e4c33f9603f1c2e6b91830cfc02d46": {
+            "text": "="
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Perfil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        }
+    }
+}

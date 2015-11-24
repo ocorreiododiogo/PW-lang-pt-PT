@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "N\u00famero de minutos"
+        },
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Tempo"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Utilizador"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "P\u00e1gina"
+        },
+        "32dc37d4cb3662c77f3415b48673af02": {
+            "text": "Endere\u00e7o IP"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Agente do Utilizador"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "Nenhuma Sess\u00e3o Activa"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Refrescar"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Sess\u00f5es"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Lhe permite percorer as sess\u00f5es de base de dados activas."
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Sess\u00f5es activas no \u00faltimo minuto"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Sess\u00f5es activas nas \u00faltimas %d minutos"
+        },
+        "14db3637a09c9b2ca9c1338171285965": {
+            "text": "%d sess\u00e3o activa"
+        },
+        "a29ecfb237834699193ba759c9af8efe": {
+            "text": "%d sess\u00f5es activas"
+        }
+    }
+}

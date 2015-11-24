@@ -1,1 +1,90 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module","textdomain":"wire--modules--inputfield--inputfieldimage--inputfieldimage-module","translations":{"7e4cc6c00140cefcecd178df1836fbba":{"text":"Imagem redimensionada para caber nas dimens\u00f5es m\u00e1ximas permitidas"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Imagem redimensionada para caber nas dimens\u00f5es m\u00e1ximas permitidas"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Mostrar miniaturas no editor de p\u00e1gina?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "As miniaturas ocupam menos espa\u00e7o e simplificam a ordena\u00e7\u00e3o das imagens. Se n\u00e3o for seleccionado, a imagem em tamanho real ser\u00e1 mostrada no editor de p\u00e1gina."
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Dimens\u00f5es m\u00e1ximas da imagem"
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Largura m\u00e1xima para as imagens carregadas"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Altura m\u00e1xima para as imagens carregadas"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Imagens"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Carregamento de uma ou mais imagens (com ordem)"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Em op\u00e7\u00e3o pode introduzir a largura e\/ou altura m\u00e1xima das imagens carregadas. Se for especificada, as imagens ser\u00e3o modificadas durante o carregamento, quando estas excederem os tamanhos m\u00e1ximos de largura ou altura. A modifica\u00e7\u00e3o ocorre aquando do carregamento, assim n\u00e3o afeta qualquer imagem j\u00e1 no sistema, ou imagens adicionadas via a API."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Imagem n\u00e3o v\u00e1lida"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Imagem"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "imagem de %s excede o tamanho m\u00e1ximo permitido"
+        },
+        "840ad8821e0c1db717493f17a054bd18": {
+            "text": "Varia\u00e7\u00e3o de $s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Apagar"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Deslocar para o fundo"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Deslocar para o topo"
+        },
+        "6a1c2d713d3598f27c30a6c448197f0e": {
+            "text": "O ficheiro n\u00e3o pode ser mostrado"
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Vista por defeito"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Linhas"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Grelha"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "Se pode alternar entre ambas as vistas clicando no \u00edcone de grelha\/linha dento do campo da imagem. Este s\u00f3 define qual est\u00e1 por defeito. A vista em linhas \u00e9 recomendada."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Introduzir o valor em n\u00famero de pixeis ou deixa vazio se n\u00e3o houver limite."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Recusar as imagens excedendo as dimens\u00f5es m\u00e1ximas?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Se selecionado, as imagens excedendo as larguras\/alturas m\u00e1ximas ser\u00e3o recusadas em vex de redimensionadas"
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Dimens\u00e3o m\u00ednima da imagem"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Em op\u00e7\u00e3o, introduzir a altura e\/ou largura m\u00ednima da imagem carregada. Se for especificado, as imagens que n\u00e3o satisfazem os m\u00ednimas ser\u00e3o recusadas."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "largura m\u00ednima para as imagens carregadas"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Altura m\u00ednima para as imagens carregadas"
+        }
+    }
+}

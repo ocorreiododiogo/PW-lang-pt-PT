@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentList.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentlist-php",
+    "translations": {
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Coment\u00e1rios"
+        },
+        "4f7ba099c8cd7a8301cf1a8e81cb5e3c": {
+            "text": "="
+        },
+        "8725214cdd9f9af24e914b5da135793d": {
+            "text": "="
+        },
+        "25d8df6e580905091a0d5ef5b9e05bf0": {
+            "text": "Resposta"
+        },
+        "6194a6554ccb6086b8809d2b3a5dddaf": {
+            "text": "Gostam do coment\u00e1rio"
+        },
+        "c7e01d04a86dacfbef51bb8cd79ae5eb": {
+            "text": "N\u00e3o gostam do coment\u00e1rio"
+        }
+    }
+}

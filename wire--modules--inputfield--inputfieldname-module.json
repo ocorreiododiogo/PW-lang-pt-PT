@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nome"
+        },
+        "05241f55e363027bb20f4669d784c28e": {
+            "text": "Qualquer combina\u00e7\u00e3o de letras (a-z), n\u00fameros (0-9) e sublinhados (nada de espa\u00e7os)"
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Entrada de texto validada como um nome de campo do Processwire"
+        }
+    }
+}

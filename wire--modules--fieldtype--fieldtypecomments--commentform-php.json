@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "="
+        },
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Adicionar Coment\u00e1rio"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "Obrigado, sua submiss\u00e3o foi guardada."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "O seu coment\u00e1rio foi submetido e ir\u00e1 aparecer quando o moderador ir\u00e1 o aprovar."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "Sua submiss\u00e3o n\u00e3o foi guardada devido a um ou mais erros. Por favor verificar que preencheu todos os campos antes de submeter de novo."
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "Seu Nome"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "Seu E-Mail"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "A URL do seu s\u00edtio Web"
+        },
+        "8dd3177b8d343a6b39f8e817f528f3db": {
+            "text": "Por favor escolher uma avalia\u00e7\u00e3o"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Coment\u00e1rios"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Submeter"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Respostas"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "Notifica\u00e7\u00f5es por E-Mail:"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        }
+    }
+}

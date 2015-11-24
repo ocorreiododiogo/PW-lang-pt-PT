@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Perfis"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "O utilizador herdar\u00e1 as permiss\u00f5es atribu\u00eddas a cada perfil. Pode atribuir v\u00e1rios perfis a um utilizador. Quando aceder a uma p\u00e1gina, o utilizador herdar\u00e1 apenas as permiss\u00f5es dos perfis que est\u00e3o tamb\u00e9m afectados ao modelo da p\u00e1gina."
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Pode n\u00e3o querer modificar este perfil"
+        },
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "Pode n\u00e3o querer remover o super utilizador do seu perfil"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "Pode n\u00e3o querer atribuir o perfil de super utilizador"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "N\u00e3o est\u00e1 autorizado a remover o perfil: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "N\u00e3o est\u00e1 autorizado a adicionar o perfil: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Removeu perfis que ir\u00e3o impedir-lhe de editar a sua conta de utilizador. Os perfis foram restaurados."
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Utilizadores"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "Gerir os utilizadores do sistema"
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d utilizador"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d utilizadores"
+        }
+    }
+}

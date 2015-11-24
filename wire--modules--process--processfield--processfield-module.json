@@ -1,0 +1,567 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Guardar"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importar"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportar"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostrar Todos"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtros"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtro por Modelo"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Quando seleccionado, s\u00f3 os campos de modelo especificado ser\u00e3o mostrados. Os campos de base est\u00e3o igualmente mostrados quando se filtra por modelo. Asterisco (*) indica modelos do sistema."
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Mostrando os campos do modelo: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Campos de Modelo"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Filtro por Tipo de Campo"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Quando especificado, s\u00f3 os campos do tipo seleccionado ser\u00e3o mostrados. Os campos de base est\u00e3o igualmente mostrados quando se filtra por tipo de campo."
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Mostrando os campos do tipo: %s"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "Mostrar os campos de base?"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Quando marcada, os campos de base ser\u00e3o tamb\u00e9m mostrados. Isto inclui campos de sistema e campos permanentes. Campos de sistema s\u00e3o exigidos pelo sistema e n\u00e3o podem ser eliminados ou renomeados. Campos permanentes s\u00e3o aqueles que n\u00e3o podem ser eliminados de um modelo. Estes campos s\u00e3o utilizados internamente pelo Processwire."
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Mostrando todos os campos, incluindo campos de sistema e campos permanentes."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Sem Etiquetas"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Nehum campo corresponde ao seu filtro"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "quando utilizado com o modelo: %s"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Campo de marca\u00e7\u00e3o reportado:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d linhas de tabela orf\u00e3s encontradas"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "... e assim a seguir..."
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "Por favor lan\u00e7ar a verifica\u00e7\u00e3o do campo %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Nenhum problema encontrado no campo %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Propriedades Desconhecidas"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "As propriedades seguintes deste campo foram encontradas com zero acessos durante a configura\u00e7\u00e3o. As vezes isto indica uma propriedade que n\u00e3o est\u00e1 mais em uso. Marque a caixa junto de cada propriedade que pretende remover. Se n\u00e3o tiver a certeza, n\u00e3o prejudica em nada deixa-los aqui."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Propriedades potencialmente desconhecidas encontradas neste campo. Por favor ver a aba \"Alertas\"."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Remover %d linhas orf\u00e3s da tabela?"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Encontramos linhas de dados na tabela do campo que coincide com nenhuma p\u00e1gina."
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "Substituido pelos valores no modelo."
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "* indica que este campo est\u00e1 actualmente a substituir o valor por defeito. As defini\u00e7\u00f5es que especificar neste ecr\u00e3 sobrep\u00f5em-se aos valores por defeito s\u00f3 quando forem utilizadas com o modelo \"$s\"."
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Substitui"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "As defini\u00e7\u00f5es seguintes s\u00e3o substitu\u00eddas pelo(s) modelo(s) indicado(s) para este campo. Marcar a caixa a direita de qualquer linha remove a substitui\u00e7\u00e3o das defini\u00e7\u00f5es (restaura o valor original)."
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Defini\u00e7\u00e3o sobrep\u00f5e-se para o modelo: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Defini\u00e7\u00e3o sobrep\u00f5e-se pelo modelo"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Para editar uma defini\u00e7\u00e3o de substitui\u00e7\u00e3o ou substituir outras defini\u00e7\u00f5es, edite qualquer modelo e clique no nome do campo na lista dos campos."
+        },
+        "2452cab12330c0a3ce62f7974eb82ba6": {
+            "text": "Remova substitui\u00e7\u00f5es de contexto"
+        },
+        "7ce33a363647f83aa612fc538dcb8214": {
+            "text": "As defini\u00e7\u00f5es seguintes substitu\u00edem as defini\u00e7\u00f5es originais do campo quando for utilizado no contexto do modelo \"%s\"."
+        },
+        "b5781496c3e514537473d4edd038152a": {
+            "text": "Para remover qualquer uma das substitui\u00e7\u00f5es (e restaurar o valor original) marque a caixa junto de cada defini\u00e7\u00e3o que pretende remover\/restaurar."
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Eliminar o campo"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Este campo n\u00e3o est\u00e1 a ser utilizado e \u00e9 seguro elimina-lo."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Este campo n\u00e3o deveria ser eliminado porque est\u00e1 a ser utilizado em um ou mais modelos."
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Defini\u00e7\u00f5es b\u00e1sicas do campo"
+        },
+        "5efc010f527cdfeaa2ef63b1c6898fb5": {
+            "text": "Qualquer combina\u00e7\u00e3o de lettras ASCII [a-z], n\u00fameros [0-9], ou caracter de sublinhado (_). nenhum tra\u00e7o ou espa\u00e7o."
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "Depois de seleccionar o tipo de campo e guardar o registo, poder\u00e3o aparecer op\u00e7\u00f5es suplementares de configura\u00e7\u00e3o, especificas ao tipo de campo que seleccionou."
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Clonar o campo existente"
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "\u00c9 a etiqueta que aparece por cima do campo de entrada. Se for deixado em branco, o nome ser\u00e1 utilizado no lugar."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Informa\u00e7\u00e3o adicional descrevendo o campo e\/ou instruc\u00e7\u00f5es sobre como introduzir o cont\u00e9udo."
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Notas sobre a utiliza\u00e7\u00e3o ou outra informa\u00e7\u00e3o que aparece por baixo do campo de entrada."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Notas aparecem aqui e s\u00e3o parecidas com isto."
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Adicionar ou remover o campo dos modelos"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "O campo est\u00e1 a ser utilizado nos modelos marcados abaixo."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "O campo n\u00e3o est\u00e1 a ser utilizado actualmente em qualquer modelo."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Pode rapidamente adicionar ou remover o campo de um modelo marcando ou desmarcando a caixa respectiva e clicar guardar."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Lhe ser\u00e1 perguntado para confirmar as adi\u00e7\u00f5es e os removidos no pr\u00f3ximo ecr\u00e3 depois de guardar."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d modelos do sistema n\u00e3o s\u00e3o mostrados porque o modo avan\u00e7ado est\u00e1 off."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Duplicar\/clonar o campo?"
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Para clonar o campo, introduz o nome do novo campo que deseja criar."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Note que ir\u00e1 editar o clone copiado depois de submeter o formul\u00e1rio."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Verificar os dados do campo"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Verifica o campo para dados inutilizados ou outras optimiza\u00e7\u00f5es poss\u00edveis. Se qualquer problema for encontrado, ter\u00e1 a oportunidade de os corrigir a partir da aba Alertas, depois de guardar."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Quer gerir o controlo de acesso para este campo?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Quando ativado, pode limitar a visualiza\u00e7\u00e3o e o acesso \u00e0 edi\u00e7\u00e3o do campo por perfil de utilizador."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Qu\u00e9 perfis podem ver e\/ou editar o campo?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Os utilizadores devem tamb\u00e9m ter o acesso para visualizar ou editar a p\u00e1gina na qual est\u00e1 o campo, antes que estas permiss\u00f5es sejam aplic\u00e1veis."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Quando nenhuma caixa est\u00e1 marcada, s\u00f3 o super-utilizador pode ver\/editar os cont\u00e9udos do campo."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(toda a gente)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Ativar\/desativar o acesso"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Mostra o campo no editor de p\u00e1gina se for vis\u00edvel mas n\u00e3o edit\u00e1vel (o utilizador pode ver mas n\u00e3o pode modificar)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Tornar o valor do campo acess\u00edvel a partir do API mesmo que n\u00e3o seja vis\u00edvel (ver abaixo)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Quando um campo n\u00e3o \u00e9 vis\u00edvel (no front-end com formata\u00e7\u00e3o de sa\u00edda on), o valor $page->%s ser\u00e1 uma vers\u00e3o em branco do tipo esperado, o que impede o valor de ser mostrado."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Marcar a caixa acima para contornar este comportamento, tornando o valor sempre acess\u00edvel via a API. Isto lhe deixa a m\u00e3o para fazer qualquer verifica\u00e7\u00e3o de acesso."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Pode verificar o acesso de visualiza\u00e7\u00e3o ao campo a partir da API desta forma:"
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Op\u00e7\u00f5es avan\u00e7adas"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Icone"
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Se pretende associar um icone com o campo, seleccione um abaixo. Clique a liga\u00e7\u00e3o \"Mostrar todos os icones\" para uma selec\u00e7\u00e3o visual."
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Etiquetas"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Se pretende agrupar visualmente estes campos com outros da lista, introduz uma etiqueta de uma s\u00f3 palavra. Introduz a mesma etiqueta nos outros campos que quer agrupar juntos. Para especificar v\u00e1rias etiquetas, separe cada uma com um espa\u00e7o. O uso de etiquetas vale a pena se o seu s\u00edtio tiver um grande n\u00famero de campos."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Cada etiqueta deve uma plavra s\u00f3 (pode ter h\u00edfen)"
+        },
+        "78bd709db99c927f3a59a1983f18c237": {
+            "text": "Para tornar uma etiqueta expand\u00edvel na lista de campos, preceda um h\u00edfen a ela, como isto: -hello"
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Campo eliminado"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Um nome de campo \u00e9 exigido"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Um tipo de campo \u00e9 exigido"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "Campo adicionado"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Removido a propriedade n\u00e3o utilizada: %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "%d linhas orf\u00e3s eliminadas"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Campo Guardado"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(c\u00f3pia)"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Campo Clonado"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Est\u00e1 agora a editar o campo que clonou."
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Erro a criar o clone deste campo"
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "O nome de campo est\u00e1 v\u00e1zio"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Os nomes de campo podem conter s\u00f3 letras ASCII, d\u00edgitos ou sublinhado."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "O nome de campo \"%s\" j\u00e1 est\u00e1 a ser utilizado"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "O nome de campo \"%s\" \u00e9 uma palavra reservada"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Nomes de campo n\u00e3o podem come\u00e7ar com \"_\" ou d\u00edgitos"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Convem que o nome de campo n\u00e3o seja o mesmo que um nome de l\u00edngua"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Substitui\u00e7\u00e3o de contexto removida"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Modificar o tipo do campo: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Modificar o tipo de campo de \"%1$s\" para \"%2$s\""
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Por favor anotar que modificar o tipo de campo altera o esquema da base de dados. Se o novo tipo de campo n\u00e3o for compat\u00edvel com o antigo, ou se conter um esquema muito diferente, \u00e9 poss\u00edvel que haja perda de dados. Em consequ\u00eancia, \u00e9 aconselhado efectuar uma salvaguarda da base de dados antes de efectuar uma mudan\u00e7a de tipo de campo."
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Confirmar a mudan\u00e7a de tipo de campo"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Se tiver a certeza que quer modificar o tipo de campo, marque a caixa abaixo e submeta o formul\u00e1rio."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Guardar as defini\u00e7\u00f5es do campo?"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "B\u00e1sico"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Adicionar Novo Campo"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Nome"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Etiqueta"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Tipo"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Modelos"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "="
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "="
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "sistema"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "permanente"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "obrigat\u00f3rio"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "Mostrar se..."
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "acesso"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Editar Campo: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Adicionar Novo Campo"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Alerta"
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "Nenhum (por defeito)"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Cancelar"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Modelo"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Defini\u00e7\u00e3o"
+        },
+        "7f8ceb624f94b152f89f7bfd06a2dff2": {
+            "text": "="
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "Substituir"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Remover defini\u00e7\u00e3o"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Eliminar"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "B\u00e1sicos"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "Tipo"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Etiqueta"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Descri\u00e7\u00e3o"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Notas"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Ac\u00e7\u00f5es"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "Nome"
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "Etiqueta"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "P\u00e1ginas preenchidas"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Linhas de dados"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Acessos"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Sim"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "N\u00e3o"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Perfil"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Ver"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Editar"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Avan\u00e7ados"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Isto ir\u00e1 tamb\u00e9m eliminar %d linha de dados."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Isto ir\u00e1 tamb\u00e9m eliminar %d linhas de dados."
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "="
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[em branco]"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Campos"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Marcar esta caixa para reter todas as defini\u00e7\u00f5es personalizadas para este campo (das abas Detalhes e Entrada). \u00c9 desej\u00e1vel se o novo tipo de campo tem as mesmas propriedades de configura\u00e7\u00e3o ou similar ao tipo antigo. Apesar de tudo, pode tamb\u00e9m resultar em dados redundantes ou desnecess\u00e1rias ocupando espa\u00e7o no campo. Pode sempre analisar aquilo mais tarde em: Avan\u00e7ado > Verificar os dados do campo."
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Mudan\u00e7a de tipo de campo abortada"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Tipo de campo modificado"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Remover o campo \"%1$s\" do modelo \"%2$s\""
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Confirmar a remo\u00e7\u00e3o do campo \"%1$s\" do modelo \"%2$s\""
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "ATEN\u00c7\u00c3O: ir\u00e1 resultar na elimina\u00e7\u00e3o permanente dos dados associados ao campo."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "Depois de submeter, seja paciente porque pode demorar at\u00e9 completar a opera\u00e7\u00e3o."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "Parece haver nehuma linha de dados associados com esta combina\u00e7\u00e3o de campo\/modelo"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Por favor marcar a caixa para confirmar."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Modelo: %s"
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "Adicionar o campo \"%1$s\" ao modelo \"%2$s\""
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "Onde quer adicionar \"%s\"?"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Antes de %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Depois de %s"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "N\u00e3o adicionar"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Adicionar ou remover do(s) modelo(s)"
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Por favor revisar e ajustar ou confirmar as suas modifica\u00e7\u00f5es"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "Campo \"%1$s\" adicionado ao modelo \"%2$s\" antes de \"%3$s\""
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "Campo \"%1$s\" adicionado ao modelo \"%2$s\" depois de \"%3$s\""
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Remover o campo \"%1$s\" do modelo \"%2$s\""
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Erro a remover \"%1$s\" do modelo \"%2$s\""
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Apresenta\u00e7\u00e3o\/Visibilidade do campo"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Perfis autorizados a visualizar este campo"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Perfis autorizados a editar este campo"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "permitir o controlo dos acessos"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Remover o controlo dos acessos"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Tornar o valor do campo access\u00edvel via a API, mesmo quando n\u00e3o est\u00e1 vis\u00edvel"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Tornar o valor do campo N\u00c3O access\u00edvel via a API quando n\u00e3o est\u00e1 vis\u00edvel"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Mostrar no editor de p\u00e1gina mesmo se n\u00e3o for edit\u00e1vel"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Ocultar no editor de p\u00e1gina quando n\u00e3o for edit\u00e1vel"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Editar campos individuais que contem dados da p\u00e1gina"
+        },
+        "588f35f32f53430bfc4199ef15c424db": {
+            "text": "Mostrar as op\u00e7\u00f5es de filtragem ne lista dos campos?"
+        },
+        "887c58e4743e8c789e4ebea161c6fdfe": {
+            "text": "isto acrescenta duas caixas de selec\u00e7\u00e3o em cima da lista dos campos, que lhe permite filtrar a apresenta\u00e7\u00e3o dos campos por modelo ou por tipo."
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Voltar \u00e0 lista dos campos depois de guardar o campo?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "por defeito, ir\u00e1 ficar no editor de campos depois de guardar um campo. Se desejar em vez disso voltar para a lista dos campos, marque esta caixa."
+        }
+    }
+}

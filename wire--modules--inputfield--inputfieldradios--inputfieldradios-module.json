@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldRadios\/InputfieldRadios.module",
+    "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
+    "translations": {
+        "cf8a8cf17df1b387458f33ace69f49be": {
+            "text": "Colunas de Bot\u00f5es Radio"
+        },
+        "9cf19cb880b90f114795a612ab1d660f": {
+            "text": "Se que os bot\u00f5es radio apresentados em colunas ( em vez de empilhados), introduzo n\u00famero de colunas que quer (at\u00e9 10). Para apresentar os bot\u00f5es lado a lado (em linha) colocar 1."
+        },
+        "a4b7341d7cd692bd8fbd2595040ad78d": {
+            "text": "Se nenhum n\u00famero for especificado aqui, ent\u00e3o cada bot\u00e3o radio ser\u00e1 apresentado na sua pr\u00f3pria linha."
+        },
+        "7041d69f9024a46791714e59812fa68f": {
+            "text": "="
+        },
+        "692fd08ceebbbf5818d492fae7ebe7db": {
+            "text": "Bot\u00f5es Radio para seleccionar s\u00f3 um elemento."
+        }
+    }
+}

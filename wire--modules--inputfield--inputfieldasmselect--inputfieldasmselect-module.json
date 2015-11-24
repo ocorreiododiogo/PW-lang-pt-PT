@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Ligar as p\u00e1ginas selecionadas ao editor de p\u00e1gina?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Quando ativado, a etiqueta selecionada ir\u00e1 ligar \u00e0 edi\u00e7\u00e3o da p\u00e1gina selecionada."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "N\u00e3o"
+        },
+        "16de616a3ba1c1801d425dacdd28aff6": {
+            "text": "Sim (numa janela modal)"
+        },
+        "0c4cf3dd938578951cefc0c5503f4939": {
+            "text": "="
+        },
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Sele\u00e7\u00e3o m\u00faltipla, melhoria progressiva para a sele\u00e7\u00e3o m\u00faltipla"
+        }
+    }
+}

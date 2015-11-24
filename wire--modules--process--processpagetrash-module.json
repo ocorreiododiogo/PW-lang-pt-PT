@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "671ad2168f66a9b66f8d97c8a4ad2794": {
+            "text": "O lixo foi vaziado"
+        },
+        "de1fd0d21eb1f64deec95ed694fffed0": {
+            "text": "Nem todas as p\u00e1ginas puderam ser eliminadas"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "O lixo est\u00e1 v\u00e1zio"
+        },
+        "b93325ff37316801eaf36f95c25a75e3": {
+            "text": "As p\u00e1ginas seguintes est\u00e3o no lixo"
+        },
+        "206c3d86254559ad3cd3b88e8e002113": {
+            "text": "Vaziar o lixo"
+        },
+        "80a9994143f3ef28a7ba4fd1dd67436a": {
+            "text": "Por favor confirmar que quer vaziar o lixo."
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Se houver demasiados elementos no lixo, poder\u00e1 ter que vazia-lo v\u00e1rias vezes."
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "P\u00e1gina Lixo"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "Trata de vaziar p\u00e1ginas do lixo"
+        },
+        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
+            "text": "(%d p\u00e1gina)"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d p\u00e1ginas)"
+        }
+    }
+}

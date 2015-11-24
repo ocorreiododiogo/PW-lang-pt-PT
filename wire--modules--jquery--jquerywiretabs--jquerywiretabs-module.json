@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "Extens\u00e3o jQuery Wire Tabs"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Disponibiliza uma extens\u00e3o jQuery para criar abas no Processwire"
+        },
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Memorizar a posi\u00e7\u00e3o das abas entre as consultas?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "S\u00f3 depois de submeter o formul\u00e1rio"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Sempre"
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "="
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "="
+        },
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "qualquer um"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "O valor %3$s especificado foi removido porque est\u00e1 fora dos limites (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Tipo de Entrada Num\u00e9rica"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "N\u00famero (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "Escolher o tipo \"N\u00famero\" permite valida\u00e7\u00f5es suplementares do lado cliente nos navegadores que suportem-no."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Valor M\u00ednimo"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "O valor m\u00ednimo permitido para o campo. Deixar em branco para ignorar."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Valor M\u00e1ximo"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "O valor m\u00e1ximo permitido para o campo. Deixar em branco para ignorar."
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Valor Inicial"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Valor inicial atribu\u00edda."
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "Inteiro"
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Inteiro (positivo ou negativo)"
+        }
+    }
+}

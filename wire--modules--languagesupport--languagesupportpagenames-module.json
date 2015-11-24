@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Activo?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefixo do n\u00famero da p\u00e1gina para a pagina\u00e7\u00e3o"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "O n\u00famero de p\u00e1gina \u00e9 acresentado a esta palavra nas URLs paginadas da l\u00edngua. Se for omisso, \"%s\" ser\u00e1 utilizado."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "a URL da p\u00e1gina in\u00edcio da l\u00edngua por defeito \u00e9 a mesma que a URL raiz?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Escolher **Sim** se pretende que a p\u00e1gina inicial da sua l\u00edngua por defeito seja servido pela URL **\/** (recomendado). Escolher **N\u00e3o** se pretende que sua URL raiz fa\u00e7a um r\u00e9-encaminhamento para **\/nome\/** (onde \/nome\/ \u00e9 a l\u00edngua por defeito da sua p\u00e1gina inicial)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Estas defini\u00e7\u00f5es afectam s\u00f3 o comportamento da p\u00e1gina inicial. Se seleccionar N\u00e3o, deve assegurar-se que sua p\u00e1gina inicial tem um nome definido para a l\u00edngua por defeito."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Sim - URL raiz serve a p\u00e1gina inicial da l\u00edngua por defeito (recomendado)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "N\u00e3o - URL raiz r\u00e9-encaminha para: \/nome\/"
+        }
+    }
+}

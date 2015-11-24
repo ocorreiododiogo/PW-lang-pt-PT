@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Ocultar\/mostrar p\u00e1ginas"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Publicar\/despublicar p\u00e1ginas ou editar p\u00e1ginas j\u00e1 publicadas"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Editar apenas as p\u00e1ginas criadas pelo utilizador"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Modificar o nome das p\u00e1ginas publicadas que pode editar"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Administrar os utilizadores de qualquer perfil (salvo o super utilizador)"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Administrar os utilizadores com o perfil: %s"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Editar os campos das p\u00e1ginas em l\u00edngua: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(igualmente exigido para criar ou eliminar p\u00e1ginas)"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Administrar as l\u00ednguas e os ficheiros est\u00e1ticos de tradu\u00e7\u00e3o"
+        }
+    }
+}

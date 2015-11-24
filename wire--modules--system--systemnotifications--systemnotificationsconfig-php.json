@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "="
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "="
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Esquerda"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Direita"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Estatuto das Notifica\u00e7\u00f5es"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Quando off, as notifica\u00e7\u00f5es n\u00e3o ser\u00e3o tratadas."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Monitorizar as edi\u00e7\u00f5es de p\u00e1gina?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Notificar o utilizador quando tenta editar uma p\u00e1gina que j\u00e1 est\u00e1 a ser editada."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Ordem das notifica\u00e7\u00f5es"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Seleccionar a ordem na qual as notifica\u00e7\u00f5es deveriam ser apresentadas."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Da mais recente a mais antiga"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Da mais antiga a mais recente"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Activar o c\u00f3digo de notifica\u00e7\u00e3o autom\u00e1tica"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Cada vez que um destes eventos acontece, o utilizador de sistema ser\u00e1 notificado."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 P\u00e1gina N\u00e3o Encontrada"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Sucessos e falhas de in\u00edcio de sess\u00e3o do utilizador"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Encerar sess\u00e3o de utilizador"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Estes s\u00e3o apenas exemplos de notifica\u00e7\u00f5es com car\u00e1cter de demonstra\u00e7\u00e3o."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Nome do utilizador que recebe as notifica\u00e7\u00f5es de sistema"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Tempo entre actualiza\u00e7\u00f5es"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Com que frequ\u00eancia verificar as notifica\u00e7\u00f5es de actualiza\u00e7\u00e3o (em milisegundos). Exemplo: 5000 = 5 segundos."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Formato de Data"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Formato de data utilizado para as notifica\u00e7\u00f5es. Utilizar o formato date() ou strftime(), ou \"relative\" para datas\/horas relativas, \"rel\" para dtas\/horas abreviadas."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Icone da mensagem"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Icone de alerta"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Icone de erro"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Prazo do ghost"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Quanto tempo as mensagens do ghost aparecem (em ms)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Prazo do ghost dos erros"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Quanto tempo as mensagens do ghost dos erros aparecem (em ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Opacidade m\u00e1xima do ghost"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Opacidade m\u00e1xima do ghost (0.1-1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limite do ghost"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Mostrar o ghost de sum\u00e1rio se mais disto."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Velocidade de desvanecimento do ghost"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Velocidade a qual o ghost aparece e desaparece."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Imediato ( nenhum desvanecimento)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "R\u00e1pido"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Lento"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Posicionamento do ghost"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Qual o lado do ecr\u00e3 no qual o ghost deve encostar"
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Notifica\u00e7\u00f5es de Runtime \/ single-request"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Mostrar as notifica\u00e7\u00f5es"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Deixar em paz"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "="
+        }
+    }
+}

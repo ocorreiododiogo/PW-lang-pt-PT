@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Formato de Sa\u00edda de Data"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Seleccione o formato a utilizar quando afixar as datas destes campos."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Para datas\/horas relativas, ver o Formato de Sa\u00edda da Hora"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Nenhum"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "="
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Formato de Sa\u00edda da Hora"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Se pretende afixar as horas al\u00e9m da data, seleccione o formato a utilizar quando afixar as horas destes campos. Ser\u00e1 combinado com o formato de data."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "C\u00f3digo do Formato de Sa\u00edda das Datas\/Horas"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "A data\/hora ser\u00e1 afixada em fun\u00e7\u00e3o do formato abaixo. Isto \u00e9 constru\u00eddo automaticamente a partir das selec\u00e7\u00f5es de data\/hora acima, mas pode modifica-lo como quiser para responder \u00e0s suas necessidades."
+        },
+        "e606a86ec2852d83f2ea4622de245889": {
+            "text": "Ver as refer\u00eancias da fun\u00e7\u00e3o PHP [date](http:\/\/www.php.net\/manual\/en\/function.date.php) para mais informa\u00e7\u00e3o sobre como personalizar o formato. Em alternativa, pode utilizar o formato PHP [strftime](http:\/\/www.php.net\/manual\/en\/function.strftime.php) se o desejar para a localiza\u00e7\u00e3o."
+        }
+    }
+}

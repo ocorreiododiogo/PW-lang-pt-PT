@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Ver Site"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Perfil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Sair"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Adicionar Novo"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "PARA TRADUTORES: faz favor traduzir o ficheiro \/wire\/templates-admin\/default.php em vez deste."
+        }
+    }
+}

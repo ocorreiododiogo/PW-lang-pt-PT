@@ -1,1 +1,84 @@
-{"file":"wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module","textdomain":"wire--modules--process--processpageadd--processpageadd-module","translations":{"278c491bdd8a53618c149c4ac790da34":{"text":"Modelo"},"c9cc8cce247e49bae79f15173ce97354":{"text":"Guardar"},"de9ced9bf5e9829de4a93ad8c9d7a170":{"text":"Nova p\u00e1gina"},"5d1b7adfdc7ca6d81d9ddbfa22b443af":{"text":"Est\u00e1 a criar uma p\u00e1gina usando o modelo: '%s'"},"abc32b2bc5cd1b61b5d3738f09405c0d":{"text":"Falta preencher um campo obrigat\u00f3rio: nome"},"9e31eadc87a42dd9b75f4b4d141c192b":{"text":"O nome selecionado j\u00e1 est\u00e1 em uso. Por favor, selecione outro."},"9c99ecab6aa8967c077e01a0b3f51668":{"text":"P\u00e1gina criada %1$s com o modelo: %2$s"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Modelo"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Guardar"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nova P\u00e1gina"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Falta preencher um campo obrigat\u00f3rio: nome"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "O nome selecionado j\u00e1 est\u00e1 em uso. Por favor, selecione outro."
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "P\u00e1gina criada %1$s com o modelo: %2$s"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Adicionar P\u00e1gina"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Adicionar uma nova p\u00e1gina"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Onde pretende adicionar o novo %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Faz favor selecionar a p\u00e1gina m\u00e3e %s abaixo:"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "N\u00e3o existe actualmente modelos com uma rela\u00e7\u00e3o pai\/filho definida para mostra aqui o atalho de \"Nova p\u00e1gina\" . Para configurar isto, edite qualquer modelo e clique na aba \"Familia\"."
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "J\u00e1 utilizado"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "O nome introduzido j\u00e1 est\u00e1 em uso. Se n\u00e3o o modifica, o nome ser\u00e1 automaticamente feito \u00fanico depois de guardar."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Nenhum modelo autorizado a acresentar p\u00e1ginas aqui."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Modelo %s n\u00e3o est\u00e1 autorizado aqui."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Pai"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Guardar + Publicar"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "P\u00e1gina temporaria n\u00e3o utilizada"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Aten\u00e7\u00e3o, o nome selecionado \"%1$s\" j\u00e1 estava utilizado e foi modoficado por \"%2$s\"."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Ordem dos atalhos dos modelos"
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Para adicionar ou remover modelos dos atalhos, veja a aba Familia no editor de modelo."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Desactivar a publica\u00e7\u00e3o autom\u00e1tica"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Por defeito, as p\u00e1ginas com s\u00f3 campos globais ( geralmente \"t\u00edtulo\") ser\u00e3o publicadas automaticamente quando adicionadas, evitando o estado habitual \"N\u00e3o publicado\". Costuma ser uma poupan\u00e7a de tempo. Mas pode anular este comportamento, marcando a caixa abaixo."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "As p\u00e1ginas seleccionadas acima representam marcadores para as p\u00e1ginas parentes onde pretende que sejam adicionadas as p\u00e1ginas filhos. Veja que se um utilizador n\u00e3o tem a permiss\u00e3o para adicionar uma p\u00e1gina numa p\u00e1gina parente (devido quer aos controlos de acesso quer \u00e0s defini\u00e7\u00f5es de fam\u00edlia do modelo), o marcador n\u00e3o ir\u00e1 ser mostrado."
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Para mudar a ordem dos atalhos de \"Nova P\u00e1gina\" modelo-de-p\u00e1gina, arraste e largue as op\u00e7\u00f5es na ordem desejada."
+        }
+    }
+}

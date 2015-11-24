@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module","textdomain":"wire--modules--process--processprofile--processprofile-module","translations":{"9fbf3617c6172a75648e9ac0a864bb56":{"text":"Perfil:"},"f9e0ddbbff17d789d7844835e71e789f":{"text":"Perfil n\u00e3o guardado"},"f29de224c874ad891ea1c3627aa468be":{"text":"Perfil guardado"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Perfil:"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Perfil n\u00e3o guardado"
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Perfil guardado"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Perfil de Utilizador"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Permite ao utilizador modificar a palavra-passe, o endere\u00e7o de email e outros par\u00e2metros."
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Quais s\u00e3o os campos que um utilizador pode editar no seu perfil?"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "O endere\u00e7o de email $s j\u00e1 est\u00e1 utilizada por outro utilizador."
+        }
+    }
+}

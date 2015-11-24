@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatadores de Texto"
+        },
+        "965a2e6ce23bd9e9ca5122fb9862be60": {
+            "text": "Se pretende aplicar qualquer formata\u00e7\u00e3o autom\u00e1tica ao campo quando est\u00e1 preparado para a sa\u00edda, seleccione um ou mais formatador acima. Se seleccionar mais que um, arraste-os na ordem na qual devem ser aplicados."
+        },
+        "ed0f8be4615cf14dc76c1bb2629edf41": {
+            "text": "Para os campos de texto simples que n\u00e3o ir\u00e3o conter HTML ou markup, recomendamos seleccionar a op\u00e7\u00e3o do **Codificador de Entidade HTML** acima."
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(n\u00e3o publicado)"
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Introduzir os t\u00edtulos dos elementos que quer adicionar, um por linha. Ser\u00e3o criados e adicionados a sua selec\u00e7\u00e3o quando guardar a p\u00e1gina."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Introduzir o t\u00edtulo do elemento que quer adicionar. Se tornar\u00e1 seleccionado quando guardar a p\u00e1gina."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Novas p\u00e1ginas ser\u00e3o adicionadas a %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Criar Nova"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "P\u00e1gina %s adicionada"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Erro a adicionar a p\u00e1gina \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Exemplo:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(por defeito)"
+        },
+        "962f1366aaa6f1c636d3214e12322362": {
+            "text": "P\u00e1ginas Seleccion\u00e1veis"
+        },
+        "21348aafc8733099a5b3c20e4a90e7b4": {
+            "text": "Parentes da(s) p\u00e1gina(s) seleccion\u00e1vel"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Seleciionar os parentes das p\u00e1ginas que est\u00e3o seleccion\u00e1veis."
+        },
+        "dceea0994df5640514b906a18a43810f": {
+            "text": "Modelo da(s) p\u00e1gina(s) seleccion\u00e1vel"
+        },
+        "9f80067ff42d8e69d0c3a24b67ef4c85": {
+            "text": "Seleccionar o modelo das p\u00e1ginas seleccion\u00e1veis. Pode utilizar no lugar ou em acr\u00e9scimo, o parente superior. NOTA: n\u00e3o compat\u00edvel com os campos com tipo de entrada PageListSelect."
+        },
+        "53158583a607fba6e71f0f18d73a910b": {
+            "text": "Selector personalizado para encontrar p\u00e1ginas seleccion\u00e1veis"
+        },
+        "6ad160329dd81f9ecede290bffe93928": {
+            "text": "Se pretende encontrar p\u00e1ginas seleccion\u00e1veis utilizando o selector de Processwire em vez de seleccionar uma p\u00e1gina parente ou um modelo (acima), ent\u00e3o introduza o selector para encontrar as p\u00e1ginas seleccion\u00e1veis. Este selector ser\u00e1 passado para uma instru\u00e7\u00e3o $pages->find(\"seu selector\"). NOTA: n\u00e3o est\u00e1 actualmente compat\u00edvel com os campos de entrada do tipo PageListSelect."
+        },
+        "3d9e8a4318894ce247ba920c7961d5da": {
+            "text": "Enquanto que isto substitui as selec\u00e7\u00f5es de parentes ou modelo acima, estas selec\u00e7\u00f5es continuam a ser utilizadas para valida\u00e7\u00e3o (retire a selec\u00e7\u00e3o se n\u00e3o quer este comportamento)."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=\/produtos\/, template=produto, sort=nome"
+        },
+        "d04c6c77608855a3ff0fb3ee32a2cd53": {
+            "text": "C\u00f3digo PHP personalizado para encontrar p\u00e1ginas seleccion\u00e1veis"
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Se pretende encontrar p\u00e1ginas seleccion\u00e1veis utilizando um fragmento de c\u00f3digo PHP em vez de seleccionar uma p\u00e1gina parente ou um modelo (acima), ent\u00e3o introduza o selector para encontrar as p\u00e1ginas seleccion\u00e1veis. Este c\u00f3digo tem acesso \u00e0s vari\u00e1veis API de $page e $pages, onde $page refere-se \u00e0 p\u00e1gina sendo editada."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NOTA: n\u00e3o \u00e9 compativel com os campos de entrada dos tipos PageListSelect ou Autocomplete."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "O fragmento de c\u00f3digo deve devolver ou um PageArray, um Page ou um NULL. Se devolver um Page, os filhos da p\u00e1gina s\u00e3o utilizados como p\u00e1ginas seleccion\u00e1veis. Este uso \u00e9 opcional, e se for utilizado, substitui os campos de parentes\/modelos\/selector acima."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "return $page->parent->parent->children(\"nome=locais\")->first()->children();"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Campo de etiqueta"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Selecionar o campo da p\u00e1gina que quer utilizar para gerar as etiquetas de cada p\u00e1gina seleccion\u00e1vel."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Seleccionar \"Formato Personalizado\" se pretende specificar v\u00e1rios campos, ou outros campos que n\u00e3o aparecem acima."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Formato personalizado (v\u00e1rios campos)'.'..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Formato personalizado da etiqueta de p\u00e1gina"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Especificar um ou mais nomes de campos rodeado de {chavetas} juntamente com outros car\u00e1cteres, espa\u00e7os ou puntua\u00e7\u00f5es."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Exemplo: {parent.titulo} - {titulo}, {data}"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Tipo de campo de entrada"
+        },
+        "bcf331523fb730639bde7c2e8fc4f811": {
+            "text": "O tipo de campo que ser\u00e1 utilizado para seleccionar uma p\u00e1gina. Seleccionar um que seja consistente com a escolha P\u00e1gina \u00fanica vs. V\u00e1rias P\u00e1ginas feita na aba \"detalhes\" do campo."
+        },
+        "ebd9ef41cdc1369f55f58b151390de31": {
+            "text": "Alguns tipos de entrada podem apresentar op\u00e7\u00f5es suplementares de configura\u00e7\u00e3o. Depois de seleccionar um tipo de campo de entrada e guardar as modifica\u00e7\u00f5es, as op\u00e7\u00f5es suplementares de configura\u00e7\u00e3o ir\u00e3o aparecer na sec\u00e7\u00e3o abaixo."
+        },
+        "195a66e99428447940ac989366724b42": {
+            "text": "Tipos sinalizados com um ast\u00e9risco s\u00e3o para a selec\u00e7\u00e3o de v\u00e1rias p\u00e1ginas."
+        },
+        "54b79da80ed98094797b9e3ee68488a6": {
+            "text": "Tipos sinalizados com um mais assumem um \"parente\" como sendo a raiz da \u00e1rvore, em vez de um parente directo."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Permitir a cria\u00e7\u00e3o de novas p\u00e1ginas dentro do campo?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Se marcado, uma op\u00e7\u00e3o para adicionar novas p\u00e1gina(s) ser\u00e1 apresentada, se os requisitos indicados est\u00e3o re\u00fanidos."
+        },
+        "7673446b991c59998763308c9f7f5d53": {
+            "text": "1. E um parente e um modelo devem ser seleccionados acima."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. O utilizado editor deve ter o acesso para criar\/publicar essas p\u00e1ginas."
+        },
+        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
+            "text": "3. A etiqueta de campo deve ser \"title (default)\"."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Modulos de campo de entrada disp\u00f3niveis para a selec\u00e7\u00e3o de p\u00e1gina"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Seleccionar os m\u00f3dulos de campo de entrada que podem ser utilizados para a selec\u00e7\u00e3o de p\u00e1gina. Estes s\u00e3o geralmente campos de entradas que permitem a selec\u00e7\u00e3o de uma ou v\u00e1rias op\u00e7\u00f5es."
+        }
+    }
+}

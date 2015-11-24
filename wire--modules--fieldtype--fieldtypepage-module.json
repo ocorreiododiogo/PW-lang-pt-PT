@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Contagem"
+        },
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "Dereferenciar na API como"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Se o campo ir\u00e1 conter v\u00e1rias p\u00e1ginas, ent\u00e3o deve seleccionar a primeira op\u00e7\u00e3o (PageArray). Se o campo precisa apenas de conter uma p\u00e1gina \u00fanica, ent\u00e3o seleccione uma das op\u00e7\u00f5es de p\u00e1gina \u00fanica (se n\u00e3o tiver a certeza, seleccione a \u00faltima op\u00e7\u00e3o)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "V\u00e1rias P\u00e1ginas (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "P\u00e1gina \u00danica (Page) ou booleano false quando nenhum seleccionada"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "P\u00e1gina \u00danica (Page) ou p\u00e1gina v\u00e1zia (NullPage) quando nenhuma seleccionada"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permitir p\u00e1ginas n\u00e3o publicadas?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Quando marcada, as p\u00e1ginas n\u00e3o publicadas s\u00e3o permitidas como valor de campo. P\u00e1ginas n\u00e3o publicadas n\u00e3o ir\u00e3o aparecer no front-end, excepto para aqueles que tem um acesso de editor."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar a p\u00e1gina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "N\u00e3o foi poss\u00edvel encontrar o modelo"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Encontrar e apagar as refer\u00eancias de p\u00e1ginas orf\u00e3s"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "="
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Alerta: como medida de seguran\u00e7a, deve salvaguardar a sua base de dados antes de lan\u00e7ar isto."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Encontrando e apagando..."
+        }
+    }
+}

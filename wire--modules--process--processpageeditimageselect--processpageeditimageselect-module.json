@@ -1,1 +1,213 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module","textdomain":"wire--modules--process--processpageeditimageselect--processpageeditimageselect-module","translations":{"5d13ae1a65403891ac0fe044f3acc865":{"text":"N\u00e3o h\u00e1 campos de imagem nesta p\u00e1gina. Escolha outra p\u00e1gina de onde selecionar imagens."},"64a201e91bd521f5640318d844920b31":{"text":"N\u00e3o h\u00e1 imagens nesta p\u00e1gina. Feche esta janela e carregue imagens, ou selecione imagens de outra p\u00e1gina."},"83ea3ed3245ed2ce30aabecdc6b4d354":{"text":"Imagens na p\u00e1gina."},"48448404ecc9e95975b334dbe421c0bd":{"text":"Se desejar selecionar imagens de uma outra p\u00e1gina, selecione a p\u00e1gina abaixo."},"48ccf48dcf2218a413ce473262f21a0c":{"text":"Largura:"},"e933dc24fb245d863a43b4fefe9b45f5":{"text":"Altura:"},"9178792605ed21e1641c9b2a2e16a721":{"text":"Pode arrastar tamb\u00e9m o canto inferior direito da imagem para redimensionar."},"e853a6aca1b442d161c2642e88346bf9":{"text":"N\u00e3o alinhada"},"811398cb1e49b4f45851cc25fcc6501f":{"text":"Alinhada \u00e0 esquerda"},"ad68675da1db2fb44a8d1cabcbbbb65e":{"text":"Alinhada \u00e0 direita"},"e36098607b9dd3b6d7107a449b6a25bd":{"text":"Alinhada ao centro"},"d7e02762cdb4621a77388689b2ee53c0":{"text":"Conectar \u00e0 vers\u00e3o maior?"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "N\u00e3o h\u00e1 campos de imagem nesta p\u00e1gina. Escolha outra p\u00e1gina de onde selecionar imagens."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Imagens na p\u00e1gina:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Se desejar selecionar imagens de uma outra p\u00e1gina, selecione a p\u00e1gina abaixo."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Largura:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Altura:"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "N\u00e3o alinhada"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Alinhada \u00e0 esquerda"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Alinhada \u00e0 direita"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Alinhada ao centro"
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Classe para alinhar a imagem \u00e0 esquerda"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Classe para alinhar a imagem \u00e0 direita"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "Classe para alinhar a imagem ao centro"
+        },
+        "e254a34f3a1001f00adc55aba5552783": {
+            "text": "Topo:"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Esuerda:"
+        },
+        "a547432ab25b830c51cb8a560e4e4f62": {
+            "text": "Descri\u00e7\u00e3o da Imagem (atributo alt)"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Liga\u00e7\u00e3o \u00e0 vers\u00e3o original\/maior"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Redimensionar"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Guardar com este tamanho?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Recortar"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Aplicar"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Maximizar\/ Largura total"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Minimizar \/ Adaptar ao ecr\u00e3"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Anular"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Guardar e Substituir"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Guardar como Cop\u00eda"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Guardando..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Actualizando..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Sim"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "N\u00e3o, utilizar %s"
+        },
+        "a7ef116917746995c6efb74b77261e93": {
+            "text": "Subt\u00edtulo?"
+        },
+        "82e8dd04a8fd3563e8e703b0ab6620d4": {
+            "text": "O texto de subt\u00edtulo \u00e9 informado no editor depois de inserir a imagem."
+        },
+        "b9869a2e0129f044fca87d4b4f7664f0": {
+            "text": "Texto do subt\u00edtulo aqui"
+        },
+        "5e470c96fb73af827111043d60af3dbe": {
+            "text": "Rodar para Direita"
+        },
+        "f3d4b8039718518b45713ae64c12de37": {
+            "text": "Rodar para Esquerda"
+        },
+        "2f96dd2b9788ed9ecbc6f41c312bf455": {
+            "text": "Inverter na Horizontal"
+        },
+        "8373d2f18e29920f78459f34d71040ad": {
+            "text": "Inverter na Vertical"
+        },
+        "d695a4d4ae7091badbe5c20c5b064bac": {
+            "text": "N\u00e3o h\u00e1 imagens nesta p\u00e1gina. Carregue uma imagem, ou selecione uma de outra p\u00e1gina."
+        },
+        "1f98842c354dc496970446bce14f4c50": {
+            "text": "Carregar Imagem"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Carregando..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Nenhuma modifica\u00e7\u00e3o necess\u00e1ria nas varia\u00e7\u00f5es de imagens."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Nenhuma modifica\u00e7\u00e3o efectuada"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Varia\u00e7\u00e3o de imagem apagada"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Erro a apagar a varia\u00e7\u00e3o de imagem"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Apagar seleccionado"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Fechar"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "Op\u00e7\u00e3o HiDPI\/Retina activada por defeito?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Assinale esta caixa para ter a op\u00e7\u00e3o HiDPI\/Retina selecionada por defeito para as novas imagens inseridas."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "N\u00e3o criar miniaturas das imagens"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Quando activado, a sele\u00e7\u00e3o de imagem usa imagens em tamanho real em vez de miniaturas."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Nomes de campos a evitar durante uma sele\u00e7\u00e3o"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Informe os nomes dos campos de imagens (separados por espa\u00e7o) dos quais n\u00e3o quer autorizar a sele\u00e7\u00e3o neste m\u00f3dulo."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "N\u00e3o usar o atributo Width nos tags de imagens?"
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Por defeito, este m\u00f3dulo ir\u00e1 inserir o atributo Witdh nas tags de imagens. se utiliza imagens responsivas, vai querer desactivar este comportamento. Seleccione a op\u00e7\u00e3o para desactivar os atributos Width e Height."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "N\u00e3o recomendamos a selec\u00e7\u00e3o desta op\u00e7\u00e3o porque interfere com outras funcionalidades (como o uso de imagens HiDPI\/Retina)."
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Valor recomendada:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Imagem"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Ficheiro"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Tamanho"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Notas"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Criado para colocar em \u00e1reas de texto"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Miniatura de admin criada automaticamente"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "Varia\u00e7\u00e3o criada pela API"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Vers\u00e3o recortada"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Inserida a partir da p\u00e1gina:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d varia\u00e7\u00e3o da imagem %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d varia\u00e7\u00f5es da imagem %2$s"
+        },
+        "f586a5b42bcd327bea09641d0ac4a06a": {
+            "text": "="
+        },
+        "4e5c9b873df1e8716656250c63342361": {
+            "text": "="
+        }
+    }
+}
